@@ -1,0 +1,45 @@
+[    1202ms] [LOG] [MKTZ] Consent is disabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1206ms] [LOG] options.gaEnabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1206ms] [LOG] true @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    4076ms] [LOG] [Loaded CSS, //a.klaviyo.com/media/css/public/klaviyo_subscribe.css] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    4078ms] [LOG] [Loaded JS, //cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.min.js] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    4493ms] [LOG] [Klaviyo / Onsite] Initializing. @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    4494ms] [LOG] [Klaviyo / Onsite] Executing: init @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    4494ms] [LOG] [Klaviyo / Onsite] Executing: enable @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    5215ms] [LOG] [Waiting for DOM to process queue.] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5215ms] [LOG] [Processing queue.] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5215ms] [LOG] [Attaching to forms, #email_signup, 1] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5217ms] [LOG] [Attached to form, form#email_signup.klaviyo_bare_embed_MApYgr] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    6269ms] [ERROR] Framing 'https://shop.app/' violates the following Content Security Policy directive: "frame-ancestors 'self' https://shop.app https://admin.shopify.com". The request has been blocked.
+ @ :0
+[    6298ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[    7110ms] [WARNING] Klaviyo tracking is disabled. To enable, set the cookie "__kla_off" to false. {is_robot: true, __kla_off: } @ https://static-tracking.klaviyo.com/onsite/js/fender_analytics.260bfd76609a3.js?cb=2:0
+[    7839ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://www.paypal.com/tagmanager/pptm.js?id=002ad141-2087-11e8-bfb8-5956e592eb61&shop=diamondback-truck-covers.myshopify.com:0
+[    8229ms] [WARNING] Rebuy JS is already loaded. @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    8474ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36 @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    8477ms] [INFO] k-web-pixel-version 2 @ https://diamondbackcovers.com/web-pixels/strict/app/web-pixel-1301282915@c63c5b72c8d77be5f2d27d14c081da38.js:0
+[   10063ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 1427881420843612. @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   10180ms] [LOG] %c
+
+📈 Increased conversion rates
+📈 Increased average order value
+📈 Increased customer lifetime value
+
+
+Learn more at: https://developers.rebuyengine.com/
+
+ font-size: 14px; @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   10514ms] [LOG] [Processing queue.] @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   11277ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://diamondbackcovers.com/cdn/wpm/s0a3c9e70wd8b01bb2p898e1257m7e92acc4m.js:0
+[   14012ms] [WARNING] [olark][warn] Google Analytics Integration is unable to detect Google Analytics on this page @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   53256ms] [ERROR] Access to XMLHttpRequest at 'https://a.klaviyo.com/onsite/track-analytics?company_id=JBFVfw' from origin 'https://diamondbackcovers.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://diamondbackcovers.com/:0
+[   53257ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://a.klaviyo.com/onsite/track-analytics?company_id=JBFVfw:0
+[   53258ms] [ERROR] Access to XMLHttpRequest at 'https://a.klaviyo.com/onsite/track-analytics?company_id=JBFVfw' from origin 'https://diamondbackcovers.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://diamondbackcovers.com/:0
+[   53259ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://a.klaviyo.com/onsite/track-analytics?company_id=JBFVfw:0
+[  198606ms] [INFO] Clear-Site-Data header on 'https://diamondbackcovers.com/cart/add.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://diamondbackcovers.com/:0
+[  198623ms] [LOG] rebuy:cart.add event {cart: Object, item: Object} @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[  198745ms] [INFO] Clear-Site-Data header on 'https://diamondbackcovers.com/cart/add.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://diamondbackcovers.com/:0
+[  198755ms] [LOG] rebuy:cart.add event {cart: Object, item: Object} @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[  222362ms] [INFO] Clear-Site-Data header on 'https://diamondbackcovers.com/cart/clear.js': Cleared data types: "prefetchCache", "prerenderCache". @ https://diamondbackcovers.com/:0
+[  248414ms] [LOG] options.gaEnabled @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[  248415ms] [LOG] true @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1

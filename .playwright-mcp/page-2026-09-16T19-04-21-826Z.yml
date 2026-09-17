@@ -1,0 +1,949 @@
+- generic [active] [ref=f24e1]:
+  - generic [ref=f24e2]: X
+  - link "Skip to content" [ref=f24e5] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:  
+  - generic [ref=f24e6]:
+    - generic [ref=f24e10]:
+      - generic [ref=f24e11]:
+        - complementary [ref=f24e13]:
+          - generic [ref=f24e14]:
+            - text: Get a DiamondBack for as low as $82/mo with 0% APR.
+            - link "See financing options." [ref=f24e15] [cursor=pointer]:
+              - /url: /pages/financing
+        - list [ref=f24e17]:
+          - listitem [ref=f24e18]:
+            - button "USD" [ref=f24e19] [cursor=pointer]
+          - listitem [ref=f24e43]:
+            - text: /
+            - link "Sign in" [ref=f24e44] [cursor=pointer]:
+              - /url: /account/
+            - text: /
+          - listitem [ref=f24e45]:
+            - text: /
+            - link "View your wishlist" [ref=f24e46] [cursor=pointer]:
+              - /url: /pages/wishlist
+              - generic [ref=f24e47]: 
+          - listitem [ref=f24e48]:
+            - text: /
+            - link "Help" [ref=f24e49] [cursor=pointer]:
+              - /url: https://help.diamondbackcovers.com
+          - listitem [ref=f24e50]:
+            - text: /
+            - link "Fleet Sales" [ref=f24e51] [cursor=pointer]:
+              - /url: /pages/fleet
+          - listitem [ref=f24e52]:
+            - link "800.935.4002" [ref=f24e53] [cursor=pointer]:
+              - /url: tel:8009354002
+      - generic [ref=f24e55]:
+        - link [ref=f24e58] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f24e63]:
+          - list [ref=f24e65]:
+            - listitem [ref=f24e66]:
+              - link "Covers expand" [ref=f24e67] [cursor=pointer]:
+                - /url: /collections/covers
+                - text: Covers
+                - generic [ref=f24e68]: expand
+              - generic [ref=f24e69]:
+                - list [ref=f24e70]:
+                  - listitem [ref=f24e71]:
+                    - link "HD" [ref=f24e72] [cursor=pointer]:
+                      - /url: /products/diamondbackhd
+                  - listitem [ref=f24e73]:
+                    - link "Switchback" [ref=f24e74] [cursor=pointer]:
+                      - /url: /products/diamondback-switchback
+                  - listitem [ref=f24e75]:
+                    - link "SE" [ref=f24e76] [cursor=pointer]:
+                      - /url: /products/diamondbackse
+                  - listitem [ref=f24e77]:
+                    - link "270" [ref=f24e78] [cursor=pointer]:
+                      - /url: /products/diamondback270
+                  - listitem [ref=f24e79]:
+                    - link "180" [ref=f24e80] [cursor=pointer]:
+                      - /url: /products/diamondback180
+                - list [ref=f24e81]:
+                  - listitem [ref=f24e82]:
+                    - link "Accessories" [ref=f24e83] [cursor=pointer]:
+                      - /url: /collections/cover-accessories
+                  - listitem [ref=f24e84]:
+                    - link "Bundles" [ref=f24e85] [cursor=pointer]:
+                      - /url: /collections/bundles
+                  - listitem [ref=f24e86]:
+                    - link "Outlet" [ref=f24e87] [cursor=pointer]:
+                      - /url: /collections/diamondback-outlet
+                  - listitem [ref=f24e88]:
+                    - link "Parts" [ref=f24e89] [cursor=pointer]:
+                      - /url: /collections/cover-parts
+                  - listitem [ref=f24e90]:
+                    - link "Compare" [ref=f24e91] [cursor=pointer]:
+                      - /url: /pages/compare-covers
+                - generic [ref=f24e92]:
+                  - link [ref=f24e93] [cursor=pointer]:
+                    - /url: /collections/covers
+                    - img "Shop Covers" [ref=f24e94]
+                  - paragraph [ref=f24e95]:
+                    - link "Shop Covers" [ref=f24e96] [cursor=pointer]:
+                      - /url: /collections/covers
+            - listitem [ref=f24e97]:
+              - link "Accessories expand" [ref=f24e98] [cursor=pointer]:
+                - /url: /collections/accessories
+                - text: Accessories
+                - generic [ref=f24e99]: expand
+              - generic [ref=f24e100]:
+                - list [ref=f24e101]:
+                  - listitem [ref=f24e102]:
+                    - link "Bed Organization" [ref=f24e103] [cursor=pointer]:
+                      - /url: /collections/bed-organization
+                  - listitem [ref=f24e104]:
+                    - link "Rack Systems" [ref=f24e105] [cursor=pointer]:
+                      - /url: /collections/rack-systems
+                  - listitem [ref=f24e106]:
+                    - link "On-Top Hauling" [ref=f24e107] [cursor=pointer]:
+                      - /url: /collections/on-top-hauling
+                - list [ref=f24e108]:
+                  - listitem [ref=f24e109]:
+                    - link "Rear Window Protection" [ref=f24e110] [cursor=pointer]:
+                      - /url: /collections/rear-window-protection
+                  - listitem [ref=f24e111]:
+                    - link "ATV/SxS" [ref=f24e112] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                - generic [ref=f24e113]:
+                  - link [ref=f24e114] [cursor=pointer]:
+                    - /url: /collections/bundles
+                    - img "Shop Bundles" [ref=f24e115]
+                  - paragraph [ref=f24e116]:
+                    - link "Shop Bundles" [ref=f24e117] [cursor=pointer]:
+                      - /url: /collections/bundles
+            - listitem [ref=f24e118]:
+              - link "ATV/SXS expand" [ref=f24e119] [cursor=pointer]:
+                - /url: /collections/atv-sxs-carriers
+                - text: ATV/SXS
+                - generic [ref=f24e120]: expand
+              - generic [ref=f24e121]:
+                - list [ref=f24e122]:
+                  - listitem [ref=f24e123]:
+                    - link "Diamondback ATVS" [ref=f24e124] [cursor=pointer]:
+                      - /url: /products/diamondbackatvs
+                  - listitem [ref=f24e125]:
+                    - link "Diamondback ATVR" [ref=f24e126] [cursor=pointer]:
+                      - /url: /products/diamondbackatvr
+                  - listitem [ref=f24e127]:
+                    - link "Diamondback SXS" [ref=f24e128] [cursor=pointer]:
+                      - /url: /products/diamondbacksxs
+                - list [ref=f24e129]:
+                  - listitem [ref=f24e130]:
+                    - link "Accessories" [ref=f24e131] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                  - listitem [ref=f24e132]:
+                    - link "Compare" [ref=f24e133] [cursor=pointer]:
+                      - /url: /pages/compare-diamondback-atv-sxs
+                  - listitem [ref=f24e134]:
+                    - link "ATV Fit Guide" [ref=f24e135] [cursor=pointer]:
+                      - /url: /pages/atv-fit-guide
+                  - listitem [ref=f24e136]:
+                    - link "Parts" [ref=f24e137] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-parts
+                - generic [ref=f24e138]:
+                  - link [ref=f24e139] [cursor=pointer]:
+                    - /url: /collections/atv-sxs-carriers
+                    - img "Shop ATV/SXS Carriers" [ref=f24e140]
+                  - paragraph [ref=f24e141]:
+                    - link "Shop ATV/SXS Carriers" [ref=f24e142] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-carriers
+            - listitem [ref=f24e143]:
+              - link "Gear expand" [ref=f24e144] [cursor=pointer]:
+                - /url: /collections/gear
+                - text: Gear
+                - generic [ref=f24e145]: expand
+              - generic [ref=f24e146]:
+                - list [ref=f24e147]:
+                  - listitem [ref=f24e148]:
+                    - link "Hoodies" [ref=f24e149] [cursor=pointer]:
+                      - /url: /products/diamondback-basic-hoodie
+                  - listitem [ref=f24e150]:
+                    - link "T-Shirts" [ref=f24e151] [cursor=pointer]:
+                      - /url: /collections/gear/T-Shirt
+                  - listitem [ref=f24e152]:
+                    - link "Hats" [ref=f24e153] [cursor=pointer]:
+                      - /url: /collections/gear/Hat
+                - generic [ref=f24e154]:
+                  - link [ref=f24e155] [cursor=pointer]:
+                    - /url: /collections/gear
+                    - img "Shop Gear" [ref=f24e156]
+                  - paragraph [ref=f24e157]:
+                    - link "Shop Gear" [ref=f24e158] [cursor=pointer]:
+                      - /url: /collections/gear
+            - listitem [ref=f24e159]:
+              - link "Built Different expand" [ref=f24e160] [cursor=pointer]:
+                - /url: "#"
+                - text: Built Different
+                - generic [ref=f24e161]: expand
+              - generic [ref=f24e162]:
+                - list [ref=f24e163]:
+                  - listitem [ref=f24e164]:
+                    - link "About Us" [ref=f24e165] [cursor=pointer]:
+                      - /url: /blogs/about-us
+                  - listitem [ref=f24e166]:
+                    - link "Our Customers" [ref=f24e167] [cursor=pointer]:
+                      - /url: /blogs/our-customers
+                  - listitem [ref=f24e168]:
+                    - link "Ambassadors" [ref=f24e169] [cursor=pointer]:
+                      - /url: /blogs/ambassadors
+                - list [ref=f24e170]:
+                  - listitem [ref=f24e171]:
+                    - link "#BuiltDifferent" [ref=f24e172] [cursor=pointer]:
+                      - /url: /pages/built-different-social
+                  - listitem [ref=f24e173]:
+                    - link "Field Journal" [ref=f24e174] [cursor=pointer]:
+                      - /url: /blogs/field-journal
+                - generic [ref=f24e175]:
+                  - link [ref=f24e176] [cursor=pointer]:
+                    - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+                    - img "Building The Best Locking Truck Bed Cover" [ref=f24e177]
+                  - paragraph [ref=f24e178]:
+                    - link "Building The Best Locking Truck Bed Cover" [ref=f24e179] [cursor=pointer]:
+                      - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+        - navigation [ref=f24e181]:
+          - list [ref=f24e182]:
+            - text: Search
+            - listitem [ref=f24e183]:
+              - link "Cart 0" [ref=f24e184] [cursor=pointer]:
+                - /url: /cart
+                - text: Cart
+                - generic [ref=f24e185]: "0"
+    - generic [ref=f24e186]:
+      - main [ref=f24e187]:
+        - generic [ref=f24e190]:
+          - generic [ref=f24e191]:
+            - link [ref=f24e192] [cursor=pointer]:
+              - /url: /products/everyday-bundle
+            - generic [ref=f24e194]:
+              - link "All-day, Everyday Bundle Regular price $266 $236 $30 off" [ref=f24e195] [cursor=pointer]:
+                - /url: /products/everyday-bundle
+                - heading [level=2] [ref=f24e196]
+                - paragraph [ref=f24e198]:
+                  - generic [ref=f24e199]: Regular price
+                  - generic [ref=f24e200]: $266
+                  - generic [ref=f24e201]: $236
+                  - generic [ref=f24e203]: $30 off
+              - paragraph
+            - link "Shop Now" [ref=f24e204] [cursor=pointer]:
+              - /url: /products/everyday-bundle
+          - generic [ref=f24e205]:
+            - link [ref=f24e206] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-colorado-2015-2022
+            - generic [ref=f24e208]:
+              - link [ref=f24e209] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-chevy-colorado-2015-2022
+                - heading [level=2] [ref=f24e210]
+                - heading "$1,599" [level=2] [ref=f24e212]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e213] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-colorado-2015-2022
+            - generic [ref=f24e214]: NEW
+          - generic [ref=f24e215]:
+            - link [ref=f24e216] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-colorado-2023-up
+            - generic [ref=f24e218]:
+              - link [ref=f24e219] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-chevy-colorado-2023-up
+                - heading [level=2] [ref=f24e220]
+                - heading "$1,599" [level=2] [ref=f24e222]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e223] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-colorado-2023-up
+            - generic [ref=f24e224]: NEW
+          - generic [ref=f24e225]:
+            - link [ref=f24e226] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-1500-14-18-2500-3500-15-19
+            - generic [ref=f24e228]:
+              - link [ref=f24e229] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-chevy-silverado-1500-14-18-2500-3500-15-19
+                - heading [level=2] [ref=f24e230]
+                - heading "$1,599" [level=2] [ref=f24e232]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e233] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-1500-14-18-2500-3500-15-19
+            - generic [ref=f24e234]: NEW
+          - generic [ref=f24e235]:
+            - link [ref=f24e236] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-1500-2019-up
+            - generic [ref=f24e238]:
+              - link [ref=f24e239] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-chevy-silverado-1500-2019-up
+                - heading [level=2] [ref=f24e240]
+                - heading "$1,599" [level=2] [ref=f24e242]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e243] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-1500-2019-up
+            - generic [ref=f24e244]: NEW
+          - generic [ref=f24e245]:
+            - link [ref=f24e246] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-2500-3500-2020-up
+            - generic [ref=f24e248]:
+              - link [ref=f24e249] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-chevy-silverado-2500-3500-2020-up
+                - heading [level=2] [ref=f24e250]
+                - heading "$1,599" [level=2] [ref=f24e252]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e253] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-chevy-silverado-2500-3500-2020-up
+            - generic [ref=f24e254]: NEW
+          - generic [ref=f24e255]:
+            - link [ref=f24e256] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-dodge-ram-1500-2019-up
+            - generic [ref=f24e258]:
+              - link [ref=f24e259] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-dodge-ram-1500-2019-up
+                - heading [level=2] [ref=f24e260]
+                - heading "$1,599" [level=2] [ref=f24e262]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e263] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-dodge-ram-1500-2019-up
+            - generic [ref=f24e264]: NEW
+          - generic [ref=f24e265]:
+            - link [ref=f24e266] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-dodge-ram-1500-classic-09-24-10-25-2500-3500
+            - generic [ref=f24e268]:
+              - link [ref=f24e269] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-dodge-ram-1500-classic-09-24-10-25-2500-3500
+                - heading [level=2] [ref=f24e270]
+                - heading "$1,599" [level=2] [ref=f24e272]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e273] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-dodge-ram-1500-classic-09-24-10-25-2500-3500
+            - generic [ref=f24e274]: NEW
+          - generic [ref=f24e275]:
+            - link [ref=f24e276] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-150-2015-2020
+            - generic [ref=f24e278]:
+              - link [ref=f24e279] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-f-150-2015-2020
+                - heading [level=2] [ref=f24e280]
+                - heading "$1,599" [level=2] [ref=f24e282]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e283] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-150-2015-2020
+            - generic [ref=f24e284]: NEW
+          - generic [ref=f24e285]:
+            - link [ref=f24e286] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-150-2021-up
+            - generic [ref=f24e288]:
+              - link [ref=f24e289] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-f-150-2021-up
+                - heading [level=2] [ref=f24e290]
+                - heading "$1,599" [level=2] [ref=f24e292]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e293] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-150-2021-up
+            - generic [ref=f24e294]: NEW
+          - generic [ref=f24e295]:
+            - link [ref=f24e296] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2008-2016
+            - generic [ref=f24e298]:
+              - link [ref=f24e299] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2008-2016
+                - heading [level=2] [ref=f24e300]
+                - heading "$1,599" [level=2] [ref=f24e302]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e303] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2008-2016
+            - generic [ref=f24e304]: NEW
+          - generic [ref=f24e305]:
+            - link [ref=f24e306] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2017-up
+            - generic [ref=f24e308]:
+              - link [ref=f24e309] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2017-up
+                - heading [level=2] [ref=f24e310]
+                - heading "$1,599" [level=2] [ref=f24e312]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e313] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-f-250-f-350-f-450-2017-up
+            - generic [ref=f24e314]: NEW
+          - generic [ref=f24e315]:
+            - link [ref=f24e316] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-maverick-2022-up
+            - generic [ref=f24e318]:
+              - link [ref=f24e319] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-maverick-2022-up
+                - heading [level=2] [ref=f24e320]
+                - heading "$1,599" [level=2] [ref=f24e322]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e323] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-maverick-2022-up
+            - generic [ref=f24e324]: NEW
+          - generic [ref=f24e325]:
+            - link [ref=f24e326] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-ranger-2019-2023
+            - generic [ref=f24e328]:
+              - link [ref=f24e329] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-ford-ranger-2019-2023
+                - heading [level=2] [ref=f24e330]
+                - heading "$1,599" [level=2] [ref=f24e332]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e333] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-ford-ranger-2019-2023
+            - generic [ref=f24e334]: NEW
+          - generic [ref=f24e335]:
+            - link [ref=f24e336] [cursor=pointer]:
+              - /url: /products/all-new-diamondback-switchback-ford-ranger-2024-up
+            - generic [ref=f24e338]:
+              - link [ref=f24e339] [cursor=pointer]:
+                - /url: /products/all-new-diamondback-switchback-ford-ranger-2024-up
+                - heading [level=2] [ref=f24e340]
+                - heading "$1,599" [level=2] [ref=f24e342]
+              - paragraph
+            - link "Shop Now" [ref=f24e343] [cursor=pointer]:
+              - /url: /products/all-new-diamondback-switchback-ford-ranger-2024-up
+            - generic [ref=f24e344]: NEW
+          - generic [ref=f24e345]:
+            - link [ref=f24e346] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-canyon-2015-2022
+            - generic [ref=f24e348]:
+              - link [ref=f24e349] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-gmc-canyon-2015-2022
+                - heading [level=2] [ref=f24e350]
+                - heading "$1,599" [level=2] [ref=f24e352]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e353] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-canyon-2015-2022
+            - generic [ref=f24e354]: NEW
+          - generic [ref=f24e355]:
+            - link [ref=f24e356] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-canyon-2023-up
+            - generic [ref=f24e358]:
+              - link [ref=f24e359] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-gmc-canyon-2023-up
+                - heading [level=2] [ref=f24e360]
+                - heading "$1,599" [level=2] [ref=f24e362]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e363] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-canyon-2023-up
+            - generic [ref=f24e364]: NEW
+          - generic [ref=f24e365]:
+            - link [ref=f24e366] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-1500-14-18-2500-3500-15-19
+            - generic [ref=f24e368]:
+              - link [ref=f24e369] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-gmc-sierra-1500-14-18-2500-3500-15-19
+                - heading [level=2] [ref=f24e370]
+                - heading "$1,599" [level=2] [ref=f24e372]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e373] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-1500-14-18-2500-3500-15-19
+            - generic [ref=f24e374]: NEW
+          - generic [ref=f24e375]:
+            - link [ref=f24e376] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-1500-2019-up
+            - generic [ref=f24e378]:
+              - link [ref=f24e379] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-gmc-sierra-1500-2019-up
+                - heading [level=2] [ref=f24e380]
+                - heading "$1,599" [level=2] [ref=f24e382]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e383] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-1500-2019-up
+            - generic [ref=f24e384]: NEW
+          - generic [ref=f24e385]:
+            - link [ref=f24e386] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-2500-3500-2020-up
+            - generic [ref=f24e388]:
+              - link [ref=f24e389] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-gmc-sierra-2500-3500-2020-up
+                - heading [level=2] [ref=f24e390]
+                - heading "$1,599" [level=2] [ref=f24e392]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e393] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-gmc-sierra-2500-3500-2020-up
+            - generic [ref=f24e394]: NEW
+          - generic [ref=f24e395]:
+            - link [ref=f24e396] [cursor=pointer]:
+              - /url: /products/all-new-diamondback-switchback-honda-ridgeline
+            - generic [ref=f24e398]:
+              - link [ref=f24e399] [cursor=pointer]:
+                - /url: /products/all-new-diamondback-switchback-honda-ridgeline
+                - heading [level=2] [ref=f24e400]
+                - heading "$1,599" [level=2] [ref=f24e402]
+              - paragraph
+            - link "Shop Now" [ref=f24e403] [cursor=pointer]:
+              - /url: /products/all-new-diamondback-switchback-honda-ridgeline
+            - generic [ref=f24e404]: NEW
+          - generic [ref=f24e405]:
+            - link [ref=f24e406] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-jeep-gladiator
+            - generic [ref=f24e408]:
+              - link [ref=f24e409] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-jeep-gladiator
+                - heading [level=2] [ref=f24e410]
+                - heading "$1,599" [level=2] [ref=f24e412]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e413] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-jeep-gladiator
+            - generic [ref=f24e414]: NEW
+          - generic [ref=f24e415]:
+            - link [ref=f24e416] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-nissan-frontier-2022-up
+            - generic [ref=f24e418]:
+              - link [ref=f24e419] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-nissan-frontier-2022-up
+                - heading [level=2] [ref=f24e420]
+                - heading "$1,599" [level=2] [ref=f24e422]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e423] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-nissan-frontier-2022-up
+            - generic [ref=f24e424]: NEW
+          - generic [ref=f24e425]:
+            - link [ref=f24e426] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-nissan-titan-2016-2024
+            - generic [ref=f24e428]:
+              - link [ref=f24e429] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-nissan-titan-2016-2024
+                - heading [level=2] [ref=f24e430]
+                - heading "$1,599" [level=2] [ref=f24e432]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e433] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-nissan-titan-2016-2024
+            - generic [ref=f24e434]: NEW
+          - generic [ref=f24e435]:
+            - link [ref=f24e436] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tacoma-2016-2023
+            - generic [ref=f24e438]:
+              - link [ref=f24e439] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-toyota-tacoma-2016-2023
+                - heading [level=2] [ref=f24e440]
+                - heading "$1,599" [level=2] [ref=f24e442]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e443] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tacoma-2016-2023
+            - generic [ref=f24e444]: NEW
+          - generic [ref=f24e445]:
+            - link [ref=f24e446] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tacoma-2024-up
+            - generic [ref=f24e448]:
+              - link [ref=f24e449] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-toyota-tacoma-2024-up
+                - heading [level=2] [ref=f24e450]
+                - heading "$1,599" [level=2] [ref=f24e452]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e453] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tacoma-2024-up
+            - generic [ref=f24e454]: NEW
+          - generic [ref=f24e455]:
+            - link [ref=f24e456] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tundra-2014-2021
+            - generic [ref=f24e458]:
+              - link [ref=f24e459] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-toyota-tundra-2014-2021
+                - heading [level=2] [ref=f24e460]
+                - heading "$1,599" [level=2] [ref=f24e462]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e463] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tundra-2014-2021
+            - generic [ref=f24e464]: NEW
+          - generic [ref=f24e465]:
+            - link [ref=f24e466] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tundra-2022-up
+            - generic [ref=f24e468]:
+              - link [ref=f24e469] [cursor=pointer]:
+                - /url: /products/diamondback-switchback-toyota-tundra-2022-up
+                - heading [level=2] [ref=f24e470]
+                - heading "$1,599" [level=2] [ref=f24e472]
+              - paragraph
+            - link "Fit Your Truck" [ref=f24e473] [cursor=pointer]:
+              - /url: /products/diamondback-switchback-toyota-tundra-2022-up
+            - generic [ref=f24e474]: NEW
+          - generic [ref=f24e475]:
+            - link [ref=f24e476] [cursor=pointer]:
+              - /url: /products/all-new-switchback-tie-down-straps
+            - generic [ref=f24e478]:
+              - link [ref=f24e479] [cursor=pointer]:
+                - /url: /products/all-new-switchback-tie-down-straps
+                - heading [level=2] [ref=f24e480]
+                - heading "$29" [level=2] [ref=f24e482]
+              - paragraph
+            - link "Shop Now" [ref=f24e483] [cursor=pointer]:
+              - /url: /products/all-new-switchback-tie-down-straps
+          - generic [ref=f24e484]:
+            - link [ref=f24e485] [cursor=pointer]:
+              - /url: /products/overlanding-bundle
+            - generic [ref=f24e487]:
+              - link "All-Out Overlanding Bundle Regular price $6,326 $5,826 $500 off" [ref=f24e488] [cursor=pointer]:
+                - /url: /products/overlanding-bundle
+                - heading "All-Out Overlanding Bundle" [level=2] [ref=f24e489]
+                - paragraph [ref=f24e491]:
+                  - generic [ref=f24e492]: Regular price
+                  - generic [ref=f24e493]: $6,326
+                  - generic [ref=f24e494]: $5,826
+                  - generic [ref=f24e496]: $500 off
+              - paragraph
+            - link "Shop Now" [ref=f24e497] [cursor=pointer]:
+              - /url: /products/overlanding-bundle
+          - generic [ref=f24e498]:
+            - link [ref=f24e499] [cursor=pointer]:
+              - /url: /products/anchor-cleat-install-hardware
+            - generic [ref=f24e501]:
+              - link [ref=f24e502] [cursor=pointer]:
+                - /url: /products/anchor-cleat-install-hardware
+                - heading [level=2] [ref=f24e503]
+                - heading "$10" [level=2] [ref=f24e505]
+              - paragraph
+            - link "Shop Now" [ref=f24e506] [cursor=pointer]:
+              - /url: /products/anchor-cleat-install-hardware
+          - generic [ref=f24e507]:
+            - link [ref=f24e508] [cursor=pointer]:
+              - /url: /products/anchor-cleats-4
+            - generic [ref=f24e510]:
+              - link [ref=f24e511] [cursor=pointer]:
+                - /url: /products/anchor-cleats-4
+                - heading [level=2] [ref=f24e512]
+                - heading "$59" [level=2] [ref=f24e514]
+              - paragraph
+            - link "Shop Now" [ref=f24e515] [cursor=pointer]:
+              - /url: /products/anchor-cleats-4
+          - generic [ref=f24e516]:
+            - link [ref=f24e517] [cursor=pointer]:
+              - /url: /products/anchor-plates
+            - generic [ref=f24e519]:
+              - link [ref=f24e520] [cursor=pointer]:
+                - /url: /products/anchor-plates
+                - heading "Anchor Plates" [level=2] [ref=f24e521]
+                - heading "$29" [level=2] [ref=f24e523]
+              - paragraph
+            - link "Shop Now" [ref=f24e524] [cursor=pointer]:
+              - /url: /products/anchor-plates
+          - generic [ref=f24e525]:
+            - link [ref=f24e526] [cursor=pointer]:
+              - /url: /products/anti-vowel-t-shirt
+            - generic [ref=f24e528]:
+              - link [ref=f24e529] [cursor=pointer]:
+                - /url: /products/anti-vowel-t-shirt
+                - heading [level=2] [ref=f24e530]
+                - heading "$25" [level=2] [ref=f24e532]
+              - paragraph
+            - link "Shop Now" [ref=f24e533] [cursor=pointer]:
+              - /url: /products/anti-vowel-t-shirt
+          - generic [ref=f24e534]:
+            - link [ref=f24e535] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit
+            - generic [ref=f24e537]:
+              - link [ref=f24e538] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit
+                - heading [level=2] [ref=f24e539]
+                - heading "$199" [level=2] [ref=f24e541]
+              - paragraph
+            - link "Shop Now" [ref=f24e542] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit
+          - generic [ref=f24e543]:
+            - link [ref=f24e544] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-chevy
+            - generic [ref=f24e546]:
+              - link [ref=f24e547] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-chevy
+                - heading [level=2] [ref=f24e548]
+                - heading "$199" [level=2] [ref=f24e550]
+              - paragraph
+            - link "Shop Now" [ref=f24e551] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-chevy
+          - generic [ref=f24e552]:
+            - link [ref=f24e553] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-dodge
+            - generic [ref=f24e555]:
+              - link [ref=f24e556] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-dodge
+                - heading [level=2] [ref=f24e557]
+                - heading "$199" [level=2] [ref=f24e559]
+              - paragraph
+            - link "Shop Now" [ref=f24e560] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-dodge
+          - generic [ref=f24e561]:
+            - link [ref=f24e562] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-ford
+            - generic [ref=f24e564]:
+              - link [ref=f24e565] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-ford
+                - heading [level=2] [ref=f24e566]
+                - heading "$199" [level=2] [ref=f24e568]
+              - paragraph
+            - link "Shop Now" [ref=f24e569] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-ford
+          - generic [ref=f24e570]:
+            - link [ref=f24e571] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-gmc
+            - generic [ref=f24e573]:
+              - link [ref=f24e574] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-gmc
+                - heading [level=2] [ref=f24e575]
+                - heading "$199" [level=2] [ref=f24e577]
+              - paragraph
+            - link "Shop Now" [ref=f24e578] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-gmc
+          - generic [ref=f24e579]:
+            - link [ref=f24e580] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-nissan
+            - generic [ref=f24e582]:
+              - link [ref=f24e583] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-nissan
+                - heading [level=2] [ref=f24e584]
+                - heading "$199" [level=2] [ref=f24e586]
+              - paragraph
+            - link "Shop Now" [ref=f24e587] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-nissan
+          - generic [ref=f24e588]:
+            - link [ref=f24e589] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-toyota
+            - generic [ref=f24e591]:
+              - link [ref=f24e592] [cursor=pointer]:
+                - /url: /products/atv-side-loading-kit-toyota
+                - heading [level=2] [ref=f24e593]
+                - heading "$199" [level=2] [ref=f24e595]
+              - paragraph
+            - link "Shop Now" [ref=f24e596] [cursor=pointer]:
+              - /url: /products/atv-side-loading-kit-toyota
+          - generic [ref=f24e597]:
+            - link [ref=f24e598] [cursor=pointer]:
+              - /url: /products/base-track-installation
+            - generic [ref=f24e600]:
+              - link [ref=f24e601] [cursor=pointer]:
+                - /url: /products/base-track-installation
+                - heading [level=2] [ref=f24e602]
+                - heading "$99" [level=2] [ref=f24e604]
+              - paragraph
+            - link "Shop Now" [ref=f24e605] [cursor=pointer]:
+              - /url: /products/base-track-installation
+          - generic [ref=f24e606]:
+            - link [ref=f24e607] [cursor=pointer]:
+              - /url: /products/bed-rail-cap-shims
+            - generic [ref=f24e609]:
+              - link [ref=f24e610] [cursor=pointer]:
+                - /url: /products/bed-rail-cap-shims
+                - heading [level=2] [ref=f24e611]
+                - heading "$8" [level=2] [ref=f24e613]
+              - paragraph
+            - link "Shop Now" [ref=f24e614] [cursor=pointer]:
+              - /url: /products/bed-rail-cap-shims
+          - generic [ref=f24e615]:
+            - link [ref=f24e616] [cursor=pointer]:
+              - /url: /products/j-clip-bed-rail-edge-trim
+            - generic [ref=f24e618]:
+              - link [ref=f24e619] [cursor=pointer]:
+                - /url: /products/j-clip-bed-rail-edge-trim
+                - heading [level=2] [ref=f24e620]
+                - heading "$4" [level=2] [ref=f24e622]
+              - paragraph
+            - link "Shop Now" [ref=f24e623] [cursor=pointer]:
+              - /url: /products/j-clip-bed-rail-edge-trim
+          - generic [ref=f24e624]:
+            - link [ref=f24e625] [cursor=pointer]:
+              - /url: /products/black-hardware-upgrade-kit
+            - generic [ref=f24e627]:
+              - link [ref=f24e628] [cursor=pointer]:
+                - /url: /products/black-hardware-upgrade-kit
+                - heading [level=2] [ref=f24e629]
+                - heading "$18" [level=2] [ref=f24e631]
+              - paragraph
+            - link "Shop Now" [ref=f24e632] [cursor=pointer]:
+              - /url: /products/black-hardware-upgrade-kit
+          - generic [ref=f24e633]:
+            - link [ref=f24e634] [cursor=pointer]:
+              - /url: /products/black-silicone-adhesive-sealant
+            - generic [ref=f24e636]:
+              - link [ref=f24e637] [cursor=pointer]:
+                - /url: /products/black-silicone-adhesive-sealant
+                - heading [level=2] [ref=f24e638]
+                - heading "$10" [level=2] [ref=f24e640]
+              - paragraph
+            - link "Shop Now" [ref=f24e641] [cursor=pointer]:
+              - /url: /products/black-silicone-adhesive-sealant
+          - generic [ref=f24e642]:
+            - link [ref=f24e643] [cursor=pointer]:
+              - /url: /products/bulkhead-weatherstrip
+            - generic [ref=f24e645]:
+              - link [ref=f24e646] [cursor=pointer]:
+                - /url: /products/bulkhead-weatherstrip
+                - heading [level=2] [ref=f24e647]
+                - heading "$10" [level=2] [ref=f24e649]
+              - paragraph
+            - link "Shop Now" [ref=f24e650] [cursor=pointer]:
+              - /url: /products/bulkhead-weatherstrip
+          - generic [ref=f24e651]:
+            - link [ref=f24e652] [cursor=pointer]:
+              - /url: /products/cap-clamp
+            - generic [ref=f24e654]:
+              - link [ref=f24e655] [cursor=pointer]:
+                - /url: /products/cap-clamp
+                - heading [level=2] [ref=f24e656]
+                - heading "$8" [level=2] [ref=f24e658]
+              - paragraph
+            - link "Shop Now" [ref=f24e659] [cursor=pointer]:
+              - /url: /products/cap-clamp
+          - generic [ref=f24e660]:
+            - link [ref=f24e661] [cursor=pointer]:
+              - /url: /products/cover-perimeter-weatherstrip-kit
+            - generic [ref=f24e663]:
+              - link [ref=f24e664] [cursor=pointer]:
+                - /url: /products/cover-perimeter-weatherstrip-kit
+                - heading [level=2] [ref=f24e665]
+                - heading "$49" [level=2] [ref=f24e667]
+              - paragraph
+            - link "Shop Now" [ref=f24e668] [cursor=pointer]:
+              - /url: /products/cover-perimeter-weatherstrip-kit
+          - generic [ref=f24e669]:
+            - link [ref=f24e670] [cursor=pointer]:
+              - /url: /products/cover-mount-rack
+            - generic [ref=f24e672]:
+              - link [ref=f24e673] [cursor=pointer]:
+                - /url: /products/cover-mount-rack
+                - heading [level=2] [ref=f24e674]
+                - heading "$349" [level=2] [ref=f24e676]
+              - paragraph
+            - link "Shop Now" [ref=f24e677] [cursor=pointer]:
+              - /url: /products/cover-mount-rack
+      - contentinfo [ref=f24e679]:
+        - generic [ref=f24e681]:
+          - generic [ref=f24e682]:
+            - generic [ref=f24e684]:
+              - generic [ref=f24e685]: Get Connected
+              - generic [ref=f24e686]: DiamondBack updates & specials.
+              - generic [ref=f24e688]:
+                - generic [ref=f24e689]:
+                  - generic [ref=f24e690] [cursor=pointer]: Newsletter Sign Up
+                  - textbox "Newsletter Sign Up" [ref=f24e691]:
+                    - /placeholder: Enter email address
+                - button "Submit email subscription" [ref=f24e692] [cursor=pointer]
+              - generic [ref=f24e693]: (Private, secure, spam-free.)
+            - list [ref=f24e698]:
+              - listitem [ref=f24e699]: Shop
+              - listitem [ref=f24e700]:
+                - link "Truck Covers" [ref=f24e701] [cursor=pointer]:
+                  - /url: /collections/covers
+              - listitem [ref=f24e702]:
+                - link "ATV/SXS" [ref=f24e703] [cursor=pointer]:
+                  - /url: /collections/atv-sxs-carriers
+              - listitem [ref=f24e704]:
+                - link "Accessories" [ref=f24e705] [cursor=pointer]:
+                  - /url: /collections/accessories
+              - listitem [ref=f24e706]:
+                - link "Gear" [ref=f24e707] [cursor=pointer]:
+                  - /url: /collections/gear
+              - listitem [ref=f24e708]:
+                - link "Outlet Store" [ref=f24e709] [cursor=pointer]:
+                  - /url: /collections/diamondback-outlet
+              - listitem [ref=f24e710]:
+                - link "Parts" [ref=f24e711] [cursor=pointer]:
+                  - /url: /collections/parts
+              - listitem [ref=f24e712]:
+                - link "Gift Cards" [ref=f24e713] [cursor=pointer]:
+                  - /url: /products/gift-card
+              - listitem [ref=f24e714]:
+                - link "Military Discount" [ref=f24e715] [cursor=pointer]:
+                  - /url: /pages/military-discount
+              - listitem [ref=f24e716]:
+                - link "Financing" [ref=f24e717] [cursor=pointer]:
+                  - /url: /pages/financing
+              - listitem [ref=f24e718]
+              - listitem [ref=f24e719]:
+                - link "Account" [ref=f24e720] [cursor=pointer]:
+                  - /url: /account/login
+            - list [ref=f24e722]:
+              - listitem [ref=f24e723]: Product Info
+              - listitem [ref=f24e724]:
+                - link "Warranty" [ref=f24e725] [cursor=pointer]:
+                  - /url: /pages/warranty
+              - listitem [ref=f24e726]:
+                - link "Compare" [ref=f24e727] [cursor=pointer]:
+                  - /url: /pages/compare-covers
+              - listitem [ref=f24e728]:
+                - link "How We Do It" [ref=f24e729] [cursor=pointer]:
+                  - /url: /pages/how-we-do-it
+              - listitem [ref=f24e730]:
+                - link "#BuiltDifferent" [ref=f24e731] [cursor=pointer]:
+                  - /url: /pages/diamondback-ready
+              - listitem [ref=f24e732]:
+                - link "ATV Fit Guide" [ref=f24e733] [cursor=pointer]:
+                  - /url: /pages/atv-fit-guide
+              - listitem [ref=f24e734]:
+                - link "Compare ATV/SXS" [ref=f24e735] [cursor=pointer]:
+                  - /url: /pages/compare-diamondback-atv-sxs
+              - listitem [ref=f24e736]:
+                - link "International Quote" [ref=f24e737] [cursor=pointer]:
+                  - /url: /pages/international-quote
+              - listitem [ref=f24e738]:
+                - link "Fleet Sales" [ref=f24e739] [cursor=pointer]:
+                  - /url: /pages/fleet
+            - list [ref=f24e741]:
+              - listitem [ref=f24e742]: Get Help
+              - listitem [ref=f24e743]:
+                - link "Help Center" [ref=f24e744] [cursor=pointer]:
+                  - /url: https://help.diamondbackcovers.com/s/
+              - listitem [ref=f24e745]:
+                - link "Contact Us" [ref=f24e746] [cursor=pointer]:
+                  - /url: /pages/contact-us
+              - listitem [ref=f24e747]:
+                - link "Installation Guides" [ref=f24e748] [cursor=pointer]:
+                  - /url: /pages/installation-guides
+              - listitem [ref=f24e749]:
+                - link "Owner's Manual" [ref=f24e750] [cursor=pointer]:
+                  - /url: /pages/owners-manual
+              - listitem [ref=f24e751]:
+                - link "Register Your DiamondBack" [ref=f24e752] [cursor=pointer]:
+                  - /url: /pages/register-your-diamondback
+              - listitem [ref=f24e753]:
+                - link "Shipping & Returns" [ref=f24e754] [cursor=pointer]:
+                  - /url: /pages/shipping-returns
+            - list [ref=f24e756]:
+              - listitem [ref=f24e757]: Explore
+              - listitem [ref=f24e758]:
+                - link "Built in the USA" [ref=f24e759] [cursor=pointer]:
+                  - /url: /blogs/about-us
+              - listitem [ref=f24e760]:
+                - link "Field Journal" [ref=f24e761] [cursor=pointer]:
+                  - /url: /blogs/field-journal
+              - listitem [ref=f24e762]:
+                - link "Careers" [ref=f24e763] [cursor=pointer]:
+                  - /url: /pages/careers-with-diamondback
+              - listitem [ref=f24e764]:
+                - link "Our Customers" [ref=f24e765] [cursor=pointer]:
+                  - /url: /blogs/our-customers
+              - listitem [ref=f24e766]:
+                - link "Our Ambassadors" [ref=f24e767] [cursor=pointer]:
+                  - /url: /blogs/ambassadors
+              - listitem [ref=f24e768]
+              - listitem [ref=f24e769]:
+                - link "Youth Impact Awards" [ref=f24e770] [cursor=pointer]:
+                  - /url: /pages/youth-impact-awards
+              - listitem [ref=f24e771]:
+                - link "Fundraising" [ref=f24e772] [cursor=pointer]:
+                  - /url: /pages/fundraising
+          - generic [ref=f24e774]:
+            - list [ref=f24e775]:
+              - listitem [ref=f24e776]:
+                - img "icon-built-in-usa" [ref=f24e777]
+              - listitem [ref=f24e779]:
+                - img "icon-lifetime-warranty" [ref=f24e780]
+              - listitem [ref=f24e782]:
+                - link "DiamondBack on Facebook" [ref=f24e783] [cursor=pointer]:
+                  - /url: https://www.facebook.com/diamondbackcovers
+              - listitem [ref=f24e786]:
+                - link "DiamondBack on Twitter" [ref=f24e787] [cursor=pointer]:
+                  - /url: https://twitter.com/dbackcovers
+              - listitem [ref=f24e792]:
+                - link "DiamondBack on Youtube" [ref=f24e793] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/diamondbackcover
+              - listitem [ref=f24e796]:
+                - link "DiamondBack on Instagram" [ref=f24e797] [cursor=pointer]:
+                  - /url: https://www.instagram.com/diamondbackcovers/
+            - list [ref=f24e802]:
+              - listitem [ref=f24e803]:
+                - link "Privacy Policy" [ref=f24e804] [cursor=pointer]:
+                  - /url: /policies/privacy-policy
+              - listitem [ref=f24e805]:
+                - link "Terms of Service" [ref=f24e806] [cursor=pointer]:
+                  - /url: /policies/terms-of-service
+              - listitem [ref=f24e807]:
+                - link "Do Not Sell My Info" [ref=f24e808] [cursor=pointer]:
+                  - /url: /pages/california-consumer-privacy-act-request-form
+              - listitem [ref=f24e809]:
+                - link "Site Map" [ref=f24e810] [cursor=pointer]:
+                  - /url: /pages/site-map

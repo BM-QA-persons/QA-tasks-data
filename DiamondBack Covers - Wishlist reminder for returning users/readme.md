@@ -1,27 +1,19 @@
-figma: https://www.figma.com/design/xiy2Jpmq6n0Ob6tvXQRNV0/UK-Radiators---Test-12---PDP---Out-of-stock?node-id=1-282&t=ghejyFH3DnQwp7mO-0 
 
-video: "C:\Users\suraj\Downloads\UK Radiators - Test 12 - PDP - Out of stock badges + CTAs.mp4"
+FIGMA https://www.figma.com/design/1eUJEEEMw2oaBe2VSziQUc/Untitled?node-id=0-1&t=riw6Pi5syoKKJAZj-1 
 
-Test: UK Radiators - Test 12 - PDP - Out of stock badges + CTAs
-
-test description: On out-of-stock PDP pages, redesign the out-of-stock badge/messaging and replace the standard "Add to basket" CTA with a "Pre-order now" button that still submits the existing (hidden) add-to-cart form, so out-of-stock items can still be purchased on backorder.
-- v1: Out-of-stock badge redesign + "Pre-order now" CTA button (replaces the default Add to basket button area on out-of-stock products). Button copy reflects an estimated back-in-stock date when available, otherwise falls back to "Pre-order now (sold out)".
-- v2: Same as v1, plus adds an email capture embed below the CTA area for users to be notified when the product is back in stock.
-
-Preview link: 
-v0 (control) https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257266
-v1 https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257267 
-v2 https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257268
+Task name DiamondBack Covers – Wishlist reminder for returning users 
 
 
+test description Returning visitors who have items saved in their wish list see a "Welcome Back" modal on site entry showing their saved items (thumbnail, name, price, date saved, "Add to cart"), so they can act on something they already chose instead of losing it. Hypothesis: this lifts conversion because saved items are hard to find again.
 
-URL targeting
-Product (PDP) pages on ukradiators.com that are out of stock. (TBD — confirm the exact targeting rule/segment configured in the test tool.)
+Test Preview link: 
+ Control v0 https://diamondbackcovers.com/
+ Variation v1 https://diamondbackcovers.com/#?mktz_sp=cd2d4f7a6532ad80e6151b8b8ab0c414&mktz_p=1713761-1778425 
 
+URL targeting: begins with diamondbackcovers.com/ (covers both US and the /en-ca/ pages);
 
-Audience targeting
-All users, desktop, mobile.
-
+Audience targeting: Returning users only, all devices — not "all users, desktop, mobile" as your draft has it. This is a returning-visitors-only test
+ 
 
 confirm the checklist check poin as well
 
