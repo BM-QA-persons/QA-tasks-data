@@ -1,0 +1,416 @@
+- generic [active] [ref=f105e1]:
+  - generic [ref=f105e2]: X
+  - link "Skip to content" [ref=f105e5] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:  
+  - generic [ref=f105e6]:
+    - generic [ref=f105e10]:
+      - generic [ref=f105e11]:
+        - complementary [ref=f105e13]:
+          - generic [ref=f105e14]:
+            - text: Get a DiamondBack for as low as $82/mo with 0% APR.
+            - link "See financing options." [ref=f105e15] [cursor=pointer]:
+              - /url: /pages/financing
+        - list [ref=f105e17]:
+          - listitem [ref=f105e18]:
+            - button "USD" [ref=f105e19] [cursor=pointer]
+          - listitem [ref=f105e43]:
+            - text: /
+            - link "Sign in" [ref=f105e44] [cursor=pointer]:
+              - /url: /account/
+            - text: /
+          - listitem [ref=f105e45]:
+            - text: /
+            - link "View your wishlist" [ref=f105e46] [cursor=pointer]:
+              - /url: /pages/wishlist
+              - generic [ref=f105e47]: 
+          - listitem [ref=f105e48]:
+            - text: /
+            - link "Help" [ref=f105e49] [cursor=pointer]:
+              - /url: https://help.diamondbackcovers.com
+          - listitem [ref=f105e50]:
+            - text: /
+            - link "Fleet Sales" [ref=f105e51] [cursor=pointer]:
+              - /url: /pages/fleet
+          - listitem [ref=f105e52]:
+            - link "800.935.4002" [ref=f105e53] [cursor=pointer]:
+              - /url: tel:8009354002
+      - generic [ref=f105e55]:
+        - link [ref=f105e58] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f105e63]:
+          - list [ref=f105e65]:
+            - listitem [ref=f105e66]:
+              - link "Covers expand" [ref=f105e67] [cursor=pointer]:
+                - /url: /collections/covers
+                - text: Covers
+                - generic [ref=f105e68]: expand
+              - generic [ref=f105e69]:
+                - list [ref=f105e70]:
+                  - listitem [ref=f105e71]:
+                    - link "HD" [ref=f105e72] [cursor=pointer]:
+                      - /url: /products/diamondbackhd
+                  - listitem [ref=f105e73]:
+                    - link "Switchback" [ref=f105e74] [cursor=pointer]:
+                      - /url: /products/diamondback-switchback
+                  - listitem [ref=f105e75]:
+                    - link "SE" [ref=f105e76] [cursor=pointer]:
+                      - /url: /products/diamondbackse
+                  - listitem [ref=f105e77]:
+                    - link "270" [ref=f105e78] [cursor=pointer]:
+                      - /url: /products/diamondback270
+                  - listitem [ref=f105e79]:
+                    - link "180" [ref=f105e80] [cursor=pointer]:
+                      - /url: /products/diamondback180
+                - list [ref=f105e81]:
+                  - listitem [ref=f105e82]:
+                    - link "Accessories" [ref=f105e83] [cursor=pointer]:
+                      - /url: /collections/cover-accessories
+                  - listitem [ref=f105e84]:
+                    - link "Bundles" [ref=f105e85] [cursor=pointer]:
+                      - /url: /collections/bundles
+                  - listitem [ref=f105e86]:
+                    - link "Outlet" [ref=f105e87] [cursor=pointer]:
+                      - /url: /collections/diamondback-outlet
+                  - listitem [ref=f105e88]:
+                    - link "Parts" [ref=f105e89] [cursor=pointer]:
+                      - /url: /collections/cover-parts
+                  - listitem [ref=f105e90]:
+                    - link "Compare" [ref=f105e91] [cursor=pointer]:
+                      - /url: /pages/compare-covers
+                - generic [ref=f105e92]:
+                  - link [ref=f105e93] [cursor=pointer]:
+                    - /url: /collections/covers
+                    - img "Shop Covers" [ref=f105e94]
+                  - paragraph [ref=f105e95]:
+                    - link "Shop Covers" [ref=f105e96] [cursor=pointer]:
+                      - /url: /collections/covers
+            - listitem [ref=f105e97]:
+              - link "Accessories expand" [ref=f105e98] [cursor=pointer]:
+                - /url: /collections/accessories
+                - text: Accessories
+                - generic [ref=f105e99]: expand
+              - generic [ref=f105e100]:
+                - list [ref=f105e101]:
+                  - listitem [ref=f105e102]:
+                    - link "Bed Organization" [ref=f105e103] [cursor=pointer]:
+                      - /url: /collections/bed-organization
+                  - listitem [ref=f105e104]:
+                    - link "Rack Systems" [ref=f105e105] [cursor=pointer]:
+                      - /url: /collections/rack-systems
+                  - listitem [ref=f105e106]:
+                    - link "On-Top Hauling" [ref=f105e107] [cursor=pointer]:
+                      - /url: /collections/on-top-hauling
+                - list [ref=f105e108]:
+                  - listitem [ref=f105e109]:
+                    - link "Rear Window Protection" [ref=f105e110] [cursor=pointer]:
+                      - /url: /collections/rear-window-protection
+                  - listitem [ref=f105e111]:
+                    - link "ATV/SxS" [ref=f105e112] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                - generic [ref=f105e113]:
+                  - link [ref=f105e114] [cursor=pointer]:
+                    - /url: /collections/bundles
+                    - img "Shop Bundles" [ref=f105e115]
+                  - paragraph [ref=f105e116]:
+                    - link "Shop Bundles" [ref=f105e117] [cursor=pointer]:
+                      - /url: /collections/bundles
+            - listitem [ref=f105e118]:
+              - link "ATV/SXS expand" [ref=f105e119] [cursor=pointer]:
+                - /url: /collections/atv-sxs-carriers
+                - text: ATV/SXS
+                - generic [ref=f105e120]: expand
+              - generic [ref=f105e121]:
+                - list [ref=f105e122]:
+                  - listitem [ref=f105e123]:
+                    - link "Diamondback ATVS" [ref=f105e124] [cursor=pointer]:
+                      - /url: /products/diamondbackatvs
+                  - listitem [ref=f105e125]:
+                    - link "Diamondback ATVR" [ref=f105e126] [cursor=pointer]:
+                      - /url: /products/diamondbackatvr
+                  - listitem [ref=f105e127]:
+                    - link "Diamondback SXS" [ref=f105e128] [cursor=pointer]:
+                      - /url: /products/diamondbacksxs
+                - list [ref=f105e129]:
+                  - listitem [ref=f105e130]:
+                    - link "Accessories" [ref=f105e131] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                  - listitem [ref=f105e132]:
+                    - link "Compare" [ref=f105e133] [cursor=pointer]:
+                      - /url: /pages/compare-diamondback-atv-sxs
+                  - listitem [ref=f105e134]:
+                    - link "ATV Fit Guide" [ref=f105e135] [cursor=pointer]:
+                      - /url: /pages/atv-fit-guide
+                  - listitem [ref=f105e136]:
+                    - link "Parts" [ref=f105e137] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-parts
+                - generic [ref=f105e138]:
+                  - link [ref=f105e139] [cursor=pointer]:
+                    - /url: /collections/atv-sxs-carriers
+                    - img "Shop ATV/SXS Carriers" [ref=f105e140]
+                  - paragraph [ref=f105e141]:
+                    - link "Shop ATV/SXS Carriers" [ref=f105e142] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-carriers
+            - listitem [ref=f105e143]:
+              - link "Gear expand" [ref=f105e144] [cursor=pointer]:
+                - /url: /collections/gear
+                - text: Gear
+                - generic [ref=f105e145]: expand
+              - generic [ref=f105e146]:
+                - list [ref=f105e147]:
+                  - listitem [ref=f105e148]:
+                    - link "Hoodies" [ref=f105e149] [cursor=pointer]:
+                      - /url: /products/diamondback-basic-hoodie
+                  - listitem [ref=f105e150]:
+                    - link "T-Shirts" [ref=f105e151] [cursor=pointer]:
+                      - /url: /collections/gear/T-Shirt
+                  - listitem [ref=f105e152]:
+                    - link "Hats" [ref=f105e153] [cursor=pointer]:
+                      - /url: /collections/gear/Hat
+                - generic [ref=f105e154]:
+                  - link [ref=f105e155] [cursor=pointer]:
+                    - /url: /collections/gear
+                    - img "Shop Gear" [ref=f105e156]
+                  - paragraph [ref=f105e157]:
+                    - link "Shop Gear" [ref=f105e158] [cursor=pointer]:
+                      - /url: /collections/gear
+            - listitem [ref=f105e159]:
+              - link "Built Different expand" [ref=f105e160] [cursor=pointer]:
+                - /url: "#"
+                - text: Built Different
+                - generic [ref=f105e161]: expand
+              - generic [ref=f105e162]:
+                - list [ref=f105e163]:
+                  - listitem [ref=f105e164]:
+                    - link "About Us" [ref=f105e165] [cursor=pointer]:
+                      - /url: /blogs/about-us
+                  - listitem [ref=f105e166]:
+                    - link "Our Customers" [ref=f105e167] [cursor=pointer]:
+                      - /url: /blogs/our-customers
+                  - listitem [ref=f105e168]:
+                    - link "Ambassadors" [ref=f105e169] [cursor=pointer]:
+                      - /url: /blogs/ambassadors
+                - list [ref=f105e170]:
+                  - listitem [ref=f105e171]:
+                    - link "#BuiltDifferent" [ref=f105e172] [cursor=pointer]:
+                      - /url: /pages/built-different-social
+                  - listitem [ref=f105e173]:
+                    - link "Field Journal" [ref=f105e174] [cursor=pointer]:
+                      - /url: /blogs/field-journal
+                - generic [ref=f105e175]:
+                  - link [ref=f105e176] [cursor=pointer]:
+                    - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+                    - img "Building The Best Locking Truck Bed Cover" [ref=f105e177]
+                  - paragraph [ref=f105e178]:
+                    - link "Building The Best Locking Truck Bed Cover" [ref=f105e179] [cursor=pointer]:
+                      - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+        - navigation [ref=f105e181]:
+          - list [ref=f105e182]:
+            - text: Search
+            - listitem [ref=f105e183]:
+              - link "Cart 0" [ref=f105e184] [cursor=pointer]:
+                - /url: /cart
+                - text: Cart
+                - generic [ref=f105e185]: "0"
+    - generic [ref=f105e186]:
+      - main [ref=f105e187]:
+        - generic [ref=f105e189]:
+          - img "Buy Now. Pay later. 0 Percent Financing" [ref=f105e190]
+          - paragraph [ref=f105e191]: Get the DiamondBack you’ve been wanting on your terms. No money down, no interest, 0% APR financing, no time to waste.
+          - generic [ref=f105e192] [cursor=pointer]: Prequalify Now
+          - paragraph
+        - generic [ref=f105e194]:
+          - text: DiamondBack covers ship in 14-17 Days.
+          - button "Show details" [ref=f105e196] [cursor=pointer]: "?"
+        - generic [ref=f105e199]:
+          - heading "Your cart" [level=1] [ref=f105e200]
+          - paragraph [ref=f105e201]: Your cart is currently empty.
+          - link "Continue shopping" [ref=f105e202] [cursor=pointer]:
+            - /url: /
+        - generic [ref=f105e207]:
+          - generic [ref=f105e208]: Questions
+          - generic [ref=f105e210]:
+            - generic [ref=f105e211]:
+              - generic [ref=f105e212]: When will I get my order?
+              - generic [ref=f105e213]:
+                - text: If you place your order today, it should leave our plant in Pennsylvania in
+                - strong [ref=f105e214]: 14-17 Days
+                - text: (or just 3 Business Days with a FastTrack Fee). Once it does, you'll receive a shipment notification email with tracking & an estimated delivery date. Transit time from PA varies from 1 to 7 business days, depending on your location.
+            - generic [ref=f105e215]:
+              - generic [ref=f105e216]: How much is U.S. shipping?
+              - generic [ref=f105e217]:
+                - paragraph [ref=f105e218]:
+                  - text: In the contiguous U.S., a DiamondBack cover or ATV/SXS Carrier ships
+                  - strong [ref=f105e219]: free
+                  - text: of charge. In AK & HI, a cover ships for $400.
+                - paragraph [ref=f105e220]: Orders that do not include a DiamondBack cover ship at a FedEx or UPS Ground rate calculated at checkout.
+            - generic [ref=f105e221]:
+              - generic [ref=f105e222]: How much is Canadian & overseas shipping?
+              - generic [ref=f105e223]:
+                - paragraph [ref=f105e224]: In ON, QC, & the Maritimes, a cover ships for US$100. And in the Prairie Provinces, Northern Canada, BC & NL, it’s US$150.
+                - paragraph [ref=f105e225]: Orders that do not include a DiamondBack cover ship at a FedEx or UPS Ground rate calculated at checkout.
+                - paragraph [ref=f105e226]:
+                  - text: Customers overseas should call (800.935.4002) or
+                  - link "email" [ref=f105e227] [cursor=pointer]:
+                    - /url: mailto:info@diamondbackcovers.com
+                  - text: for a quote.
+            - generic [ref=f105e228]:
+              - generic [ref=f105e229]: How is sales tax determined for my order?
+              - generic [ref=f105e230]:
+                - text: We are required to collect state, county & municipal sales tax for
+                - link "these states" [ref=f105e231] [cursor=pointer]:
+                  - /url: //diamondbackcovers.com/cdn/shop/files/Where_in_the_U.S._does_DiamondBack_collect_sales_tax.pdf?v=5959066209283362490
+                - text: . We collect the 5% GST in Canada.
+              - generic [ref=f105e232]: What payment methods can I use?
+              - generic [ref=f105e233]:
+                - paragraph [ref=f105e234]: We accept all major credit cards.
+                - paragraph [ref=f105e235]:
+                  - img "Buy now with PayPal" [ref=f105e236]
+                - paragraph [ref=f105e237]: Financing available through Affirm.
+      - contentinfo [ref=f105e241]:
+        - generic [ref=f105e243]:
+          - generic [ref=f105e244]:
+            - generic [ref=f105e246]:
+              - generic [ref=f105e247]: Get Connected
+              - generic [ref=f105e248]: DiamondBack updates & specials.
+              - generic [ref=f105e250]:
+                - generic [ref=f105e251]:
+                  - generic [ref=f105e252] [cursor=pointer]: Newsletter Sign Up
+                  - textbox "Newsletter Sign Up" [ref=f105e253]:
+                    - /placeholder: Enter email address
+                - button "Submit email subscription" [ref=f105e254] [cursor=pointer]
+              - generic [ref=f105e255]: (Private, secure, spam-free.)
+            - list [ref=f105e260]:
+              - listitem [ref=f105e261]: Shop
+              - listitem [ref=f105e262]:
+                - link "Truck Covers" [ref=f105e263] [cursor=pointer]:
+                  - /url: /collections/covers
+              - listitem [ref=f105e264]:
+                - link "ATV/SXS" [ref=f105e265] [cursor=pointer]:
+                  - /url: /collections/atv-sxs-carriers
+              - listitem [ref=f105e266]:
+                - link "Accessories" [ref=f105e267] [cursor=pointer]:
+                  - /url: /collections/accessories
+              - listitem [ref=f105e268]:
+                - link "Gear" [ref=f105e269] [cursor=pointer]:
+                  - /url: /collections/gear
+              - listitem [ref=f105e270]:
+                - link "Outlet Store" [ref=f105e271] [cursor=pointer]:
+                  - /url: /collections/diamondback-outlet
+              - listitem [ref=f105e272]:
+                - link "Parts" [ref=f105e273] [cursor=pointer]:
+                  - /url: /collections/parts
+              - listitem [ref=f105e274]:
+                - link "Gift Cards" [ref=f105e275] [cursor=pointer]:
+                  - /url: /products/gift-card
+              - listitem [ref=f105e276]:
+                - link "Military Discount" [ref=f105e277] [cursor=pointer]:
+                  - /url: /pages/military-discount
+              - listitem [ref=f105e278]:
+                - link "Financing" [ref=f105e279] [cursor=pointer]:
+                  - /url: /pages/financing
+              - listitem [ref=f105e280]
+              - listitem [ref=f105e281]:
+                - link "Account" [ref=f105e282] [cursor=pointer]:
+                  - /url: /account/login
+            - list [ref=f105e284]:
+              - listitem [ref=f105e285]: Product Info
+              - listitem [ref=f105e286]:
+                - link "Warranty" [ref=f105e287] [cursor=pointer]:
+                  - /url: /pages/warranty
+              - listitem [ref=f105e288]:
+                - link "Compare" [ref=f105e289] [cursor=pointer]:
+                  - /url: /pages/compare-covers
+              - listitem [ref=f105e290]:
+                - link "How We Do It" [ref=f105e291] [cursor=pointer]:
+                  - /url: /pages/how-we-do-it
+              - listitem [ref=f105e292]:
+                - link "#BuiltDifferent" [ref=f105e293] [cursor=pointer]:
+                  - /url: /pages/diamondback-ready
+              - listitem [ref=f105e294]:
+                - link "ATV Fit Guide" [ref=f105e295] [cursor=pointer]:
+                  - /url: /pages/atv-fit-guide
+              - listitem [ref=f105e296]:
+                - link "Compare ATV/SXS" [ref=f105e297] [cursor=pointer]:
+                  - /url: /pages/compare-diamondback-atv-sxs
+              - listitem [ref=f105e298]:
+                - link "International Quote" [ref=f105e299] [cursor=pointer]:
+                  - /url: /pages/international-quote
+              - listitem [ref=f105e300]:
+                - link "Fleet Sales" [ref=f105e301] [cursor=pointer]:
+                  - /url: /pages/fleet
+            - list [ref=f105e303]:
+              - listitem [ref=f105e304]: Get Help
+              - listitem [ref=f105e305]:
+                - link "Help Center" [ref=f105e306] [cursor=pointer]:
+                  - /url: https://help.diamondbackcovers.com/s/
+              - listitem [ref=f105e307]:
+                - link "Contact Us" [ref=f105e308] [cursor=pointer]:
+                  - /url: /pages/contact-us
+              - listitem [ref=f105e309]:
+                - link "Installation Guides" [ref=f105e310] [cursor=pointer]:
+                  - /url: /pages/installation-guides
+              - listitem [ref=f105e311]:
+                - link "Owner's Manual" [ref=f105e312] [cursor=pointer]:
+                  - /url: /pages/owners-manual
+              - listitem [ref=f105e313]:
+                - link "Register Your DiamondBack" [ref=f105e314] [cursor=pointer]:
+                  - /url: /pages/register-your-diamondback
+              - listitem [ref=f105e315]:
+                - link "Shipping & Returns" [ref=f105e316] [cursor=pointer]:
+                  - /url: /pages/shipping-returns
+            - list [ref=f105e318]:
+              - listitem [ref=f105e319]: Explore
+              - listitem [ref=f105e320]:
+                - link "Built in the USA" [ref=f105e321] [cursor=pointer]:
+                  - /url: /blogs/about-us
+              - listitem [ref=f105e322]:
+                - link "Field Journal" [ref=f105e323] [cursor=pointer]:
+                  - /url: /blogs/field-journal
+              - listitem [ref=f105e324]:
+                - link "Careers" [ref=f105e325] [cursor=pointer]:
+                  - /url: /pages/careers-with-diamondback
+              - listitem [ref=f105e326]:
+                - link "Our Customers" [ref=f105e327] [cursor=pointer]:
+                  - /url: /blogs/our-customers
+              - listitem [ref=f105e328]:
+                - link "Our Ambassadors" [ref=f105e329] [cursor=pointer]:
+                  - /url: /blogs/ambassadors
+              - listitem [ref=f105e330]
+              - listitem [ref=f105e331]:
+                - link "Youth Impact Awards" [ref=f105e332] [cursor=pointer]:
+                  - /url: /pages/youth-impact-awards
+              - listitem [ref=f105e333]:
+                - link "Fundraising" [ref=f105e334] [cursor=pointer]:
+                  - /url: /pages/fundraising
+          - generic [ref=f105e336]:
+            - list [ref=f105e337]:
+              - listitem [ref=f105e338]:
+                - img "icon-built-in-usa" [ref=f105e339]
+              - listitem [ref=f105e341]:
+                - img "icon-lifetime-warranty" [ref=f105e342]
+              - listitem [ref=f105e344]:
+                - link "DiamondBack on Facebook" [ref=f105e345] [cursor=pointer]:
+                  - /url: https://www.facebook.com/diamondbackcovers
+              - listitem [ref=f105e348]:
+                - link "DiamondBack on Twitter" [ref=f105e349] [cursor=pointer]:
+                  - /url: https://twitter.com/dbackcovers
+              - listitem [ref=f105e354]:
+                - link "DiamondBack on Youtube" [ref=f105e355] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/diamondbackcover
+              - listitem [ref=f105e358]:
+                - link "DiamondBack on Instagram" [ref=f105e359] [cursor=pointer]:
+                  - /url: https://www.instagram.com/diamondbackcovers/
+            - list [ref=f105e364]:
+              - listitem [ref=f105e365]:
+                - link "Privacy Policy" [ref=f105e366] [cursor=pointer]:
+                  - /url: /policies/privacy-policy
+              - listitem [ref=f105e367]:
+                - link "Terms of Service" [ref=f105e368] [cursor=pointer]:
+                  - /url: /policies/terms-of-service
+              - listitem [ref=f105e369]:
+                - link "Do Not Sell My Info" [ref=f105e370] [cursor=pointer]:
+                  - /url: /pages/california-consumer-privacy-act-request-form
+              - listitem [ref=f105e371]:
+                - link "Site Map" [ref=f105e372] [cursor=pointer]:
+                  - /url: /pages/site-map

@@ -1,0 +1,752 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: X
+  - link "Skip to content" [ref=e5] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:  
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - complementary [ref=e13]:
+          - generic [ref=e14]:
+            - text: Get a DiamondBack for as low as $82/mo with 0% APR.
+            - link "See financing options." [ref=e15] [cursor=pointer]:
+              - /url: /pages/financing
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - button "USD" [ref=e19] [cursor=pointer]
+          - listitem [ref=e43]:
+            - text: /
+            - link "View your wishlist" [ref=e44] [cursor=pointer]:
+              - /url: /pages/wishlist
+              - generic [ref=e45]: 
+          - listitem [ref=e46]:
+            - text: /
+            - link "Help" [ref=e47] [cursor=pointer]:
+              - /url: https://help.diamondbackcovers.com
+          - listitem [ref=e48]:
+            - text: /
+            - link "Fleet Sales" [ref=e49] [cursor=pointer]:
+              - /url: /pages/fleet
+          - listitem [ref=e50]:
+            - link "800.935.4002" [ref=e51] [cursor=pointer]:
+              - /url: tel:8009354002
+      - generic [ref=e53]:
+        - link [ref=e56] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=e61]:
+          - list [ref=e63]:
+            - listitem [ref=e64]:
+              - link "Covers expand" [ref=e65] [cursor=pointer]:
+                - /url: /collections/covers
+                - text: Covers
+                - generic [ref=e66]: expand
+              - generic [ref=e69]:
+                - complementary [ref=e70]:
+                  - list [ref=e71]:
+                    - listitem [ref=e72]:
+                      - link "Accessories" [ref=e73] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/accessories
+                    - listitem [ref=e74]:
+                      - link "Parts" [ref=e75] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/parts
+                    - listitem [ref=e76]:
+                      - link "Bundles" [ref=e77] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/bundles
+                    - listitem [ref=e78]:
+                      - link "Outlet" [ref=e79] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/diamondback-outlet
+                  - link "Compare" [ref=e80] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/pages/compare
+                - generic [ref=e81]:
+                  - article [ref=e82]:
+                    - link [ref=e83] [cursor=pointer]:
+                      - /url: /products/diamondbackhd
+                      - heading "HD" [level=3] [ref=e85]
+                      - img "HD Truck Bed Cover" [ref=e86]
+                      - paragraph [ref=e88]: The ultimate heavy-duty bed cover, able to haul up to 1,600 lbs on top.
+                    - text: Best Seller
+                  - article [ref=e89]:
+                    - link "SWITCHBACK New Switchback Truck Bed Cover Low profile, light build, and quick, toolless installation and removal." [ref=e90] [cursor=pointer]:
+                      - /url: /products/diamondback-switchback
+                      - generic [ref=e91]:
+                        - heading "SWITCHBACK" [level=3] [ref=e92]
+                        - generic [ref=e93]: New
+                      - img "Switchback Truck Bed Cover" [ref=e95]
+                      - paragraph [ref=e97]: Low profile, light build, and quick, toolless installation and removal.
+                  - article [ref=e98]:
+                    - link [ref=e99] [cursor=pointer]:
+                      - /url: /products/diamondbackse
+                      - heading "SE" [level=3] [ref=e101]
+                      - img "SE Truck Bed Cover" [ref=e102]
+                      - paragraph [ref=e104]: Our lighter version of the HD, able to haul 400 lbs on top.
+                  - article [ref=e105]:
+                    - link [ref=e106] [cursor=pointer]:
+                      - /url: /products/diamondback270
+                      - heading "270" [level=3] [ref=e108]
+                      - img "270 Truck Bed Cover" [ref=e109]
+                      - paragraph [ref=e111]: Unique three-hatch design with gull-wing access panels up front.
+                  - article [ref=e112]:
+                    - link [ref=e113] [cursor=pointer]:
+                      - /url: /products/diamondback180
+                      - heading "180" [level=3] [ref=e115]
+                      - img "180 Truck Bed Cover" [ref=e116]
+                      - paragraph [ref=e118]: Butterfly-style three-hatch design with two near full-length, side opening panels.
+            - listitem [ref=e119]:
+              - link "Accessories expand" [ref=e120] [cursor=pointer]:
+                - /url: /collections/accessories
+                - text: Accessories
+                - generic [ref=e121]: expand
+              - generic [ref=e125]:
+                - article [ref=e126]:
+                  - link [ref=e127] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/bed-organization
+                    - heading "BED ORGANIZATION" [level=3] [ref=e129]
+                    - img "Wingman" [ref=e130]
+                - article [ref=e131]:
+                  - link [ref=e132] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/rack-systems
+                    - heading "RACK SYSTEMS" [level=3] [ref=e134]
+                    - img "Rack System" [ref=e135]
+                - article [ref=e136]:
+                  - link [ref=e137] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/on-top-hauling
+                    - heading "ON-TOP HAULING" [level=3] [ref=e139]
+                    - img "StrongHold" [ref=e140]
+                - article [ref=e141]:
+                  - link [ref=e142] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/bundles
+                    - heading "BUNDLES" [level=3] [ref=e144]
+                    - img "All-day, Everyday Bundle" [ref=e145]
+                - article [ref=e146]:
+                  - link [ref=e147] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/rear-window-protection
+                    - heading "REAR WINDOW PROTECTION" [level=3] [ref=e149]
+                    - img "HD Cab Guard" [ref=e150]
+                - article [ref=e151]:
+                  - link [ref=e152] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/atv-sxs-accessories
+                    - heading "ATV/SxS" [level=3] [ref=e154]
+                    - img "Ramps" [ref=e155]
+            - listitem [ref=e156]:
+              - link "ATV/SXS expand" [ref=e157] [cursor=pointer]:
+                - /url: /collections/atv-sxs-carriers
+                - text: ATV/SXS
+                - generic [ref=e158]: expand
+              - generic [ref=e159]:
+                - list [ref=e160]:
+                  - listitem [ref=e161]:
+                    - link "Diamondback ATVS" [ref=e162] [cursor=pointer]:
+                      - /url: /products/diamondbackatvs
+                  - listitem [ref=e163]:
+                    - link "Diamondback ATVR" [ref=e164] [cursor=pointer]:
+                      - /url: /products/diamondbackatvr
+                  - listitem [ref=e165]:
+                    - link "Diamondback SXS" [ref=e166] [cursor=pointer]:
+                      - /url: /products/diamondbacksxs
+                - list [ref=e167]:
+                  - listitem [ref=e168]:
+                    - link "Accessories" [ref=e169] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                  - listitem [ref=e170]:
+                    - link "Compare" [ref=e171] [cursor=pointer]:
+                      - /url: /pages/compare-diamondback-atv-sxs
+                  - listitem [ref=e172]:
+                    - link "ATV Fit Guide" [ref=e173] [cursor=pointer]:
+                      - /url: /pages/atv-fit-guide
+                  - listitem [ref=e174]:
+                    - link "Parts" [ref=e175] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-parts
+                - generic [ref=e176]:
+                  - link [ref=e177] [cursor=pointer]:
+                    - /url: /collections/atv-sxs-carriers
+                    - img "Shop ATV/SXS Carriers" [ref=e178]
+                  - paragraph [ref=e179]:
+                    - link "Shop ATV/SXS Carriers" [ref=e180] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-carriers
+            - listitem [ref=e181]:
+              - link "Gear expand" [ref=e182] [cursor=pointer]:
+                - /url: /collections/gear
+                - text: Gear
+                - generic [ref=e183]: expand
+              - generic [ref=e184]:
+                - list [ref=e185]:
+                  - listitem [ref=e186]:
+                    - link "Hoodies" [ref=e187] [cursor=pointer]:
+                      - /url: /products/diamondback-basic-hoodie
+                  - listitem [ref=e188]:
+                    - link "T-Shirts" [ref=e189] [cursor=pointer]:
+                      - /url: /collections/gear/T-Shirt
+                  - listitem [ref=e190]:
+                    - link "Hats" [ref=e191] [cursor=pointer]:
+                      - /url: /collections/gear/Hat
+                - generic [ref=e192]:
+                  - link [ref=e193] [cursor=pointer]:
+                    - /url: /collections/gear
+                    - img "Shop Gear" [ref=e194]
+                  - paragraph [ref=e195]:
+                    - link "Shop Gear" [ref=e196] [cursor=pointer]:
+                      - /url: /collections/gear
+            - listitem [ref=e197]:
+              - link "Built Different expand" [ref=e198] [cursor=pointer]:
+                - /url: "#"
+                - text: Built Different
+                - generic [ref=e199]: expand
+              - generic [ref=e200]:
+                - list [ref=e201]:
+                  - listitem [ref=e202]:
+                    - link "About Us" [ref=e203] [cursor=pointer]:
+                      - /url: /blogs/about-us
+                  - listitem [ref=e204]:
+                    - link "Our Customers" [ref=e205] [cursor=pointer]:
+                      - /url: /blogs/our-customers
+                  - listitem [ref=e206]:
+                    - link "Ambassadors" [ref=e207] [cursor=pointer]:
+                      - /url: /blogs/ambassadors
+                - list [ref=e208]:
+                  - listitem [ref=e209]:
+                    - link "#BuiltDifferent" [ref=e210] [cursor=pointer]:
+                      - /url: /pages/built-different-social
+                  - listitem [ref=e211]:
+                    - link "Field Journal" [ref=e212] [cursor=pointer]:
+                      - /url: /blogs/field-journal
+                - generic [ref=e213]:
+                  - link [ref=e214] [cursor=pointer]:
+                    - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+                    - img "Building The Best Locking Truck Bed Cover" [ref=e215]
+                  - paragraph [ref=e216]:
+                    - link "Building The Best Locking Truck Bed Cover" [ref=e217] [cursor=pointer]:
+                      - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+        - navigation [ref=e219]:
+          - list [ref=e220]:
+            - listitem [ref=e221]:
+              - link "Cart 0" [ref=e222] [cursor=pointer]:
+                - /url: /cart
+                - text: Cart
+                - generic [ref=e223]: "0"
+    - generic [ref=e224]:
+      - main [ref=e225]:
+        - form "Truck selection" [ref=e228]:
+          - generic [ref=e229]:
+            - combobox "Make" [ref=e231] [cursor=pointer]:
+              - option "Make" [selected]
+              - option "Chevy"
+              - option "Dodge"
+              - option "Ford"
+              - option "GMC"
+              - option "Honda"
+              - option "Jeep"
+              - option "Nissan"
+              - option "Toyota"
+            - combobox "Model" [disabled] [ref=e233]:
+              - option "Model" [selected]
+            - combobox "Year Range" [disabled] [ref=e235]:
+              - option "Year Range" [selected]
+            - generic [ref=e237]:
+              - combobox "Bed Length" [disabled] [ref=e238]:
+                - option "Bed Length" [selected]
+              - link "?" [ref=e239] [cursor=pointer]:
+                - /url: "#"
+            - button "Select Your Truck" [disabled] [ref=e241]
+        - generic [ref=e245]:
+          - heading "Meet the Legendary Original" [level=4] [ref=e247]
+          - heading "Diamondback HD." [level=2] [ref=e249]
+          - generic [ref=e250]:
+            - paragraph [ref=e251]: The cover we built for ourselves, it's the leader for uncompromising strength and protection, proven to withstand anything you or the elements can throw at it.
+            - paragraph
+          - link "Shop HD" [ref=e254] [cursor=pointer]:
+            - /url: /products/diamondbackhd
+        - generic [ref=e257]:
+          - heading "Available for every truck:" [level=2] [ref=e258]
+          - list [ref=e259]:
+            - listitem [ref=e260]:
+              - img "Ford" [ref=e261]
+            - listitem [ref=e265]:
+              - img "Chevy" [ref=e266]
+            - listitem [ref=e267]:
+              - img "Ram" [ref=e268]
+            - listitem [ref=e275]:
+              - img "GMC" [ref=e276]
+            - listitem [ref=e278]:
+              - img "Toyota" [ref=e279]
+            - listitem [ref=e281]:
+              - img "Nissan" [ref=e282]
+            - listitem [ref=e283]:
+              - img "Jeep" [ref=e284]
+            - listitem [ref=e288]:
+              - img "Honda" [ref=e289]
+        - generic [ref=e298]:
+          - heading "We didn't want a tonneau cover, we wanted a vault. We didn't want rain resistant, we wanted weatherproof. We didn't want something we could lean on, we wanted something we could count on. We wanted something Built Different." [level=2] [ref=e300]
+          - generic [ref=e302]:
+            - generic [ref=e303]:
+              - img "Superman Security" [ref=e304]
+              - generic [ref=e305]: SupermaxSecurity
+            - generic [ref=e306]:
+              - img "Stronghaul Design" [ref=e307]
+              - generic [ref=e308]: StronghaulDesign
+            - generic [ref=e309]:
+              - img "Weatherwall Defense" [ref=e310]
+              - generic [ref=e311]: WeatherwallDefense
+            - generic [ref=e312]:
+              - img "Built in the USA" [ref=e313]
+              - generic [ref=e314]: Built In The USA
+        - generic [ref=e318]:
+          - heading "Introducing the all-new" [level=4] [ref=e320]
+          - heading "switchback" [level=2] [ref=e322]
+          - paragraph [ref=e324]:
+            - strong [ref=e325]: Go Light. Stay Strong. Switch Fast.
+          - generic [ref=e326]:
+            - paragraph [ref=e327]: Legendary DiamondBack protection and uncompromising capability for $1,599.
+            - paragraph
+          - link "Shop Now" [ref=e330] [cursor=pointer]:
+            - /url: /products/diamondback-switchback
+        - generic [ref=e335]:
+          - generic [ref=e336]:
+            - heading [level=2] [ref=e338]:
+              - strong [ref=e339]: Theft
+              - text: Proof
+            - paragraph [ref=e340]: Built with aluminum up to 4x thicker than other bed covers, and an anti-theft design.
+            - link "Shop Now" [ref=e341] [cursor=pointer]:
+              - /url: /collections/covers
+          - generic [ref=e342]:
+            - heading [level=2] [ref=e344]:
+              - strong [ref=e345]: Weather
+              - text: Proof
+            - paragraph [ref=e346]: Engineered to endure the elements, because no one likes wet gear.
+            - link "Shop Now" [ref=e347] [cursor=pointer]:
+              - /url: /collections/covers
+          - generic [ref=e348]:
+            - heading [level=2] [ref=e350]:
+              - strong [ref=e351]: Ready
+              - text: for Anything
+            - paragraph [ref=e352]: With an all-aluminum, rugged build that is reinforced to haul on top, you'll be ready for every adventure.
+            - link "Shop Now" [ref=e353] [cursor=pointer]:
+              - /url: /collections/covers
+        - generic [ref=e355]:
+          - generic [ref=e357]:
+            - heading "Built in the USA" [level=2] [ref=e359]
+            - paragraph [ref=e361]: DiamondBack invented the first top-hauling, ultra durable folding truck bed cover and each one is built in Philipsburg, PA by a team dedicated to American manufacturing.
+            - link "Our Story" [ref=e364] [cursor=pointer]:
+              - /url: /pages/built-in-the-usa
+          - img "DiamondBack Facility Built In the USA" [ref=e366]
+        - generic [ref=e370]:
+          - heading [level=2] [ref=e372]:
+            - text: Hear it from the ones
+            - generic [ref=e373]: who are ready
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - generic [ref=e377]: Over
+              - generic [ref=e378]: 8,000
+              - generic [ref=e379]: Reviews
+            - generic [ref=e380]:
+              - generic [ref=e381]: 4.9/5
+              - generic [ref=e393]: Avg. Rating
+            - generic [ref=e394]:
+              - generic [ref=e395]: 99%
+              - generic [ref=e401]: of customers would recommend DiamondBack to a friend.
+          - generic [ref=e402]:
+            - paragraph [ref=e403]: Authentic reviews written by DiamondBack owners who had the same questions you’re asking now. After real-world experience, they have the answers.
+            - paragraph
+          - generic [ref=e405]:
+            - link "HD REVIEWS" [ref=e406] [cursor=pointer]:
+              - /url: /products/diamondbackhd?variant=28732457161&gotoReviews=true
+            - link "SE REVIEWS" [ref=e407] [cursor=pointer]:
+              - /url: /products/diamondbackse?variant=28905652553&gotoReviews=true
+        - generic [ref=e413]:
+          - heading "our customers are built different" [level=4] [ref=e414]
+          - link "View the Gallery" [ref=e416] [cursor=pointer]:
+            - /url: /pages/diamondback-ready
+        - generic [ref=e426]:
+          - generic [ref=e427]:
+            - heading "Choose Your Cover" [level=2] [ref=e429]
+            - paragraph [ref=e431]: You'll never worry about your gear in the bed again.
+          - generic [ref=e432]:
+            - generic [ref=e433] [cursor=pointer]: HD
+            - generic [ref=e434] [cursor=pointer]: Switchback
+            - generic [ref=e435] [cursor=pointer]: SE
+          - listbox [ref=e438]:
+            - generic [aria-hidden] [ref=e439]:
+              - heading [level=3] [ref=e441]:
+                - paragraph [ref=e442]:
+                  - text: Meet
+                  - strong [ref=e443]: SE
+              - generic [ref=e444]:
+                - generic [ref=e445]: Simple & Secure.
+                - generic [ref=e446]:
+                  - generic [ref=e447]: Starting at
+                  - text: $2,099
+                - link [ref=e448] [cursor=pointer]:
+                  - /url: /products/diamondbackse
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e449]:
+              - generic [ref=e450]: Best Seller
+              - heading [level=3] [ref=e452]:
+                - paragraph [ref=e453]:
+                  - text: Meet
+                  - strong [ref=e454]: HD
+              - generic [ref=e455]:
+                - generic [ref=e456]: Heavy duty with no limits.
+                - generic [ref=e457]:
+                  - generic [ref=e458]: Starting at
+                  - text: $2,499
+                - link [ref=e459] [cursor=pointer]:
+                  - /url: /products/diamondbackhd
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e460]:
+              - generic [ref=e461]: New
+              - heading [level=3] [ref=e463]:
+                - paragraph [ref=e464]:
+                  - text: Meet
+                  - strong [ref=e465]: Switchback
+              - generic [ref=e466]:
+                - generic [ref=e467]: Folds out of the way.
+                - generic [ref=e468]:
+                  - generic [ref=e469]: Starting at
+                  - text: $1,599
+                - link [ref=e470] [cursor=pointer]:
+                  - /url: /products/diamondback-switchback
+                  - text: Shop Now
+            - generic [ref=e471]:
+              - heading [level=3] [ref=e473]:
+                - paragraph [ref=e474]:
+                  - text: Meet
+                  - strong [ref=e475]: SE
+              - generic [ref=e476]:
+                - generic [ref=e477]: Simple & Secure.
+                - generic [ref=e478]:
+                  - generic [ref=e479]: Starting at
+                  - text: $2,099
+                - link "Shop Now" [ref=e480] [cursor=pointer]:
+                  - /url: /products/diamondbackse
+            - group [ref=e481]:
+              - generic [ref=e482]: Best Seller
+              - heading [level=3] [ref=e484]:
+                - paragraph [ref=e485]:
+                  - text: Meet
+                  - strong [ref=e486]: HD
+              - generic [ref=e487]:
+                - generic [ref=e488]: Heavy duty with no limits.
+                - generic [ref=e489]:
+                  - generic [ref=e490]: Starting at
+                  - text: $2,499
+                - link "Shop Now" [ref=e491] [cursor=pointer]:
+                  - /url: /products/diamondbackhd
+            - group [ref=e492]:
+              - generic [ref=e493]: New
+              - heading [level=3] [ref=e495]:
+                - paragraph [ref=e496]:
+                  - text: Meet
+                  - strong [ref=e497]: Switchback
+              - generic [ref=e498]:
+                - generic [ref=e499]: Folds out of the way.
+                - generic [ref=e500]:
+                  - generic [ref=e501]: Starting at
+                  - text: $1,599
+                - link "Shop Now" [ref=e502] [cursor=pointer]:
+                  - /url: /products/diamondback-switchback
+            - group [aria-hidden] [ref=e503]:
+              - heading [level=3] [ref=e505]:
+                - paragraph [ref=e506]:
+                  - text: Meet
+                  - strong [ref=e507]: SE
+              - generic [ref=e508]:
+                - generic [ref=e509]: Simple & Secure.
+                - generic [ref=e510]:
+                  - generic [ref=e511]: Starting at
+                  - text: $2,099
+                - link [ref=e512] [cursor=pointer]:
+                  - /url: /products/diamondbackse
+                  - text: Shop Now
+            - group [aria-hidden] [ref=e513]:
+              - generic [ref=e514]: Best Seller
+              - heading [level=3] [ref=e516]:
+                - paragraph [ref=e517]:
+                  - text: Meet
+                  - strong [ref=e518]: HD
+              - generic [ref=e519]:
+                - generic [ref=e520]: Heavy duty with no limits.
+                - generic [ref=e521]:
+                  - generic [ref=e522]: Starting at
+                  - text: $2,499
+                - link [ref=e523] [cursor=pointer]:
+                  - /url: /products/diamondbackhd
+                  - text: Shop Now
+            - group [aria-hidden] [ref=e524]:
+              - generic [ref=e525]: New
+              - heading [level=3] [ref=e527]:
+                - paragraph [ref=e528]:
+                  - text: Meet
+                  - strong [ref=e529]: Switchback
+              - generic [ref=e530]:
+                - generic [ref=e531]: Folds out of the way.
+                - generic [ref=e532]:
+                  - generic [ref=e533]: Starting at
+                  - text: $1,599
+                - link [ref=e534] [cursor=pointer]:
+                  - /url: /products/diamondback-switchback
+                  - text: Shop Now
+            - group [aria-hidden] [ref=e535]:
+              - heading [level=3] [ref=e537]:
+                - paragraph [ref=e538]:
+                  - text: Meet
+                  - strong [ref=e539]: SE
+              - generic [ref=e540]:
+                - generic [ref=e541]: Simple & Secure.
+                - generic [ref=e542]:
+                  - generic [ref=e543]: Starting at
+                  - text: $2,099
+                - link [ref=e544] [cursor=pointer]:
+                  - /url: /products/diamondbackse
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e545]:
+              - generic [ref=e546]: Best Seller
+              - heading [level=3] [ref=e548]:
+                - paragraph [ref=e549]:
+                  - text: Meet
+                  - strong [ref=e550]: HD
+              - generic [ref=e551]:
+                - generic [ref=e552]: Heavy duty with no limits.
+                - generic [ref=e553]:
+                  - generic [ref=e554]: Starting at
+                  - text: $2,499
+                - link [ref=e555] [cursor=pointer]:
+                  - /url: /products/diamondbackhd
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e556]:
+              - generic [ref=e557]: New
+              - heading [level=3] [ref=e559]:
+                - paragraph [ref=e560]:
+                  - text: Meet
+                  - strong [ref=e561]: Switchback
+              - generic [ref=e562]:
+                - generic [ref=e563]: Folds out of the way.
+                - generic [ref=e564]:
+                  - generic [ref=e565]: Starting at
+                  - text: $1,599
+                - link [ref=e566] [cursor=pointer]:
+                  - /url: /products/diamondback-switchback
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e567]:
+              - heading [level=3] [ref=e569]:
+                - paragraph [ref=e570]:
+                  - text: Meet
+                  - strong [ref=e571]: SE
+              - generic [ref=e572]:
+                - generic [ref=e573]: Simple & Secure.
+                - generic [ref=e574]:
+                  - generic [ref=e575]: Starting at
+                  - text: $2,099
+                - link [ref=e576] [cursor=pointer]:
+                  - /url: /products/diamondbackse
+                  - text: Shop Now
+            - generic [aria-hidden] [ref=e577]:
+              - generic [ref=e578]: Best Seller
+              - heading [level=3] [ref=e580]:
+                - paragraph [ref=e581]:
+                  - text: Meet
+                  - strong [ref=e582]: HD
+              - generic [ref=e583]:
+                - generic [ref=e584]: Heavy duty with no limits.
+                - generic [ref=e585]:
+                  - generic [ref=e586]: Starting at
+                  - text: $2,499
+                - link [ref=e587] [cursor=pointer]:
+                  - /url: /products/diamondbackhd
+                  - text: Shop Now
+        - generic [ref=e591]:
+          - img "Buy Now Pay Later. 0% Interest" [ref=e593]
+          - generic [ref=e594]:
+            - paragraph [ref=e595]: Get the DiamondBack you’ve been wanting on your terms. No money down, no interest, 0% APR financing, no time to waste.
+            - paragraph
+          - link "Shop now" [ref=e598] [cursor=pointer]:
+            - /url: /collections/covers
+        - generic [ref=e601]:
+          - heading [level=2] [ref=e603]:
+            - text: Load It up. Lock It Down.
+            - strong [ref=e604]: Adventure On.
+          - generic [ref=e607]:
+            - generic [ref=e608] [cursor=pointer]
+            - listbox [ref=e612]:
+              - link [ref=e615] [cursor=pointer]:
+                - /url: /collections/rack-systems
+                - heading [level=3] [ref=e617]: Rack Systems
+              - link [ref=e620] [cursor=pointer]:
+                - /url: /collections/accessories
+                - heading [level=3] [ref=e622]: Accessories
+              - link [ref=e625] [cursor=pointer]:
+                - /url: /collections/atv-sxs-carriers
+                - heading [level=3] [ref=e627]: ATV/SXS Carriers
+              - group [ref=e628]:
+                - link "Truck Covers" [ref=e630] [cursor=pointer]:
+                  - /url: /collections/covers
+                  - heading "Truck Covers" [level=3] [ref=e632]
+              - group [ref=e633]
+              - group [ref=e640]:
+                - link "Bed Organization" [ref=e642] [cursor=pointer]:
+                  - /url: /collections/bed-organization
+                  - heading "Bed Organization" [level=3] [ref=e644]
+              - group [aria-hidden] [ref=e645]:
+                - link [ref=e647] [cursor=pointer]:
+                  - /url: /collections/rack-systems
+                  - heading [level=3] [ref=e649]: Rack Systems
+              - group [aria-hidden] [ref=e650]:
+                - link [ref=e652] [cursor=pointer]:
+                  - /url: /collections/accessories
+                  - heading [level=3] [ref=e654]: Accessories
+              - group [aria-hidden] [ref=e655]:
+                - link [ref=e657] [cursor=pointer]:
+                  - /url: /collections/atv-sxs-carriers
+                  - heading [level=3] [ref=e659]: ATV/SXS Carriers
+              - link [ref=e662] [cursor=pointer]:
+                - /url: /collections/covers
+                - heading [level=3] [ref=e664]: Truck Covers
+              - link [ref=e674] [cursor=pointer]:
+                - /url: /collections/bed-organization
+                - heading [level=3] [ref=e676]: Bed Organization
+      - contentinfo [ref=e681]:
+        - generic [ref=e683]:
+          - generic [ref=e684]:
+            - generic [ref=e686]:
+              - generic [ref=e687]: Get Connected
+              - generic [ref=e688]: DiamondBack updates & specials.
+              - generic [ref=e690]:
+                - generic [ref=e691]:
+                  - generic [ref=e692] [cursor=pointer]: Newsletter Sign Up
+                  - textbox "Newsletter Sign Up" [ref=e693]:
+                    - /placeholder: Enter email address
+                - button "Submit email subscription" [ref=e694] [cursor=pointer]
+              - generic [ref=e695]: (Private, secure, spam-free.)
+            - list [ref=e700]:
+              - listitem [ref=e701]: Shop
+              - listitem [ref=e702]:
+                - link "Truck Covers" [ref=e703] [cursor=pointer]:
+                  - /url: /collections/covers
+              - listitem [ref=e704]:
+                - link "ATV/SXS" [ref=e705] [cursor=pointer]:
+                  - /url: /collections/atv-sxs-carriers
+              - listitem [ref=e706]:
+                - link "Accessories" [ref=e707] [cursor=pointer]:
+                  - /url: /collections/accessories
+              - listitem [ref=e708]:
+                - link "Gear" [ref=e709] [cursor=pointer]:
+                  - /url: /collections/gear
+              - listitem [ref=e710]:
+                - link "Outlet Store" [ref=e711] [cursor=pointer]:
+                  - /url: /collections/diamondback-outlet
+              - listitem [ref=e712]:
+                - link "Parts" [ref=e713] [cursor=pointer]:
+                  - /url: /collections/parts
+              - listitem [ref=e714]:
+                - link "Gift Cards" [ref=e715] [cursor=pointer]:
+                  - /url: /products/gift-card
+              - listitem [ref=e716]:
+                - link "Military Discount" [ref=e717] [cursor=pointer]:
+                  - /url: /pages/military-discount
+              - listitem [ref=e718]:
+                - link "Financing" [ref=e719] [cursor=pointer]:
+                  - /url: /pages/financing
+              - listitem [ref=e720]
+              - listitem [ref=e721]:
+                - link "Account" [ref=e722] [cursor=pointer]:
+                  - /url: /account/login
+            - list [ref=e724]:
+              - listitem [ref=e725]: Product Info
+              - listitem [ref=e726]:
+                - link "Warranty" [ref=e727] [cursor=pointer]:
+                  - /url: /pages/warranty
+              - listitem [ref=e728]:
+                - link "Compare" [ref=e729] [cursor=pointer]:
+                  - /url: /pages/compare-covers
+              - listitem [ref=e730]:
+                - link "How We Do It" [ref=e731] [cursor=pointer]:
+                  - /url: /pages/how-we-do-it
+              - listitem [ref=e732]:
+                - link "#BuiltDifferent" [ref=e733] [cursor=pointer]:
+                  - /url: /pages/diamondback-ready
+              - listitem [ref=e734]:
+                - link "ATV Fit Guide" [ref=e735] [cursor=pointer]:
+                  - /url: /pages/atv-fit-guide
+              - listitem [ref=e736]:
+                - link "Compare ATV/SXS" [ref=e737] [cursor=pointer]:
+                  - /url: /pages/compare-diamondback-atv-sxs
+              - listitem [ref=e738]:
+                - link "International Quote" [ref=e739] [cursor=pointer]:
+                  - /url: /pages/international-quote
+              - listitem [ref=e740]:
+                - link "Fleet Sales" [ref=e741] [cursor=pointer]:
+                  - /url: /pages/fleet
+            - list [ref=e743]:
+              - listitem [ref=e744]: Get Help
+              - listitem [ref=e745]:
+                - link "Help Center" [ref=e746] [cursor=pointer]:
+                  - /url: https://help.diamondbackcovers.com/s/
+              - listitem [ref=e747]:
+                - link "Contact Us" [ref=e748] [cursor=pointer]:
+                  - /url: /pages/contact-us
+              - listitem [ref=e749]:
+                - link "Installation Guides" [ref=e750] [cursor=pointer]:
+                  - /url: /pages/installation-guides
+              - listitem [ref=e751]:
+                - link "Owner's Manual" [ref=e752] [cursor=pointer]:
+                  - /url: /pages/owners-manual
+              - listitem [ref=e753]:
+                - link "Register Your DiamondBack" [ref=e754] [cursor=pointer]:
+                  - /url: /pages/register-your-diamondback
+              - listitem [ref=e755]:
+                - link "Shipping & Returns" [ref=e756] [cursor=pointer]:
+                  - /url: /pages/shipping-returns
+            - list [ref=e758]:
+              - listitem [ref=e759]: Explore
+              - listitem [ref=e760]:
+                - link "Built in the USA" [ref=e761] [cursor=pointer]:
+                  - /url: /blogs/about-us
+              - listitem [ref=e762]:
+                - link "Field Journal" [ref=e763] [cursor=pointer]:
+                  - /url: /blogs/field-journal
+              - listitem [ref=e764]:
+                - link "Careers" [ref=e765] [cursor=pointer]:
+                  - /url: /pages/careers-with-diamondback
+              - listitem [ref=e766]:
+                - link "Our Customers" [ref=e767] [cursor=pointer]:
+                  - /url: /blogs/our-customers
+              - listitem [ref=e768]:
+                - link "Our Ambassadors" [ref=e769] [cursor=pointer]:
+                  - /url: /blogs/ambassadors
+              - listitem [ref=e770]
+              - listitem [ref=e771]:
+                - link "Youth Impact Awards" [ref=e772] [cursor=pointer]:
+                  - /url: /pages/youth-impact-awards
+              - listitem [ref=e773]:
+                - link "Fundraising" [ref=e774] [cursor=pointer]:
+                  - /url: /pages/fundraising
+          - generic [ref=e776]:
+            - list [ref=e777]:
+              - listitem [ref=e778]:
+                - img "icon-built-in-usa" [ref=e779]
+              - listitem [ref=e781]:
+                - img "icon-lifetime-warranty" [ref=e782]
+              - listitem [ref=e784]:
+                - link "DiamondBack on Facebook" [ref=e785] [cursor=pointer]:
+                  - /url: https://www.facebook.com/diamondbackcovers
+              - listitem [ref=e788]:
+                - link "DiamondBack on Twitter" [ref=e789] [cursor=pointer]:
+                  - /url: https://twitter.com/dbackcovers
+              - listitem [ref=e794]:
+                - link "DiamondBack on Youtube" [ref=e795] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/diamondbackcover
+              - listitem [ref=e798]:
+                - link "DiamondBack on Instagram" [ref=e799] [cursor=pointer]:
+                  - /url: https://www.instagram.com/diamondbackcovers/
+            - list [ref=e804]:
+              - listitem [ref=e805]:
+                - link "Privacy Policy" [ref=e806] [cursor=pointer]:
+                  - /url: /policies/privacy-policy
+              - listitem [ref=e807]:
+                - link "Terms of Service" [ref=e808] [cursor=pointer]:
+                  - /url: /policies/terms-of-service
+              - listitem [ref=e809]:
+                - link "Do Not Sell My Info" [ref=e810] [cursor=pointer]:
+                  - /url: /pages/california-consumer-privacy-act-request-form
+              - listitem [ref=e811]:
+                - link "Site Map" [ref=e812] [cursor=pointer]:
+                  - /url: /pages/site-map
+  - button "Open product quiz" [ref=e813] [cursor=pointer]: FIND MY COVER
