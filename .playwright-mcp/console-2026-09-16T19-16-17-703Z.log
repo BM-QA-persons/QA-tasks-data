@@ -1,0 +1,60 @@
+[    1692ms] [ERROR] Failed to load resource: SSL peer certificate or SSH remote key was not OK @ https://rapid-1.yottaa.net/api/v1/configure.rapid.js?key=azFCRNeGUPnKmg&ul=en-US&dl=https%3A%2F%2Fdiamondbackcovers.com%2F&dt=&sd=24&sr=1280,720&vp=1280,720&ct=unknown&rtt=unknown:0
+[    1696ms] NetworkError:  A network error occurred.
+    at send (https://diamondbackcovers.com/:5:783)
+    at unknown (https://diamondbackcovers.com/:5:783)
+    at Kb (https://rapid-cdn.yottaa.com/rapid/lib/azFCRNeGUPnKmg.js:1:131749)
+    at configure (https://rapid-cdn.yottaa.com/rapid/lib/azFCRNeGUPnKmg.js:1:149417)
+    at global code (https://rapid-cdn.yottaa.com/rapid/lib/azFCRNeGUPnKmg.js:2:13)
+[    1740ms] [LOG] [MKTZ] Consent is disabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1746ms] [LOG] options.gaEnabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1746ms] [LOG] true @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    4787ms] [LOG] [Loaded CSS, //a.klaviyo.com/media/css/public/klaviyo_subscribe.css] @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    4792ms] [LOG] [Loaded JS, //cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.min.js] @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    5795ms] [LOG] [Klaviyo / Onsite] Initializing. @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    5795ms] [LOG] [Klaviyo / Onsite] Executing: init @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    5796ms] [LOG] [Klaviyo / Onsite] Executing: enable @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    7322ms] [INFO] k-web-pixel-version 2 @ https://diamondbackcovers.com/web-pixels/strict/app/web-pixel-1301282915@c63c5b72c8d77be5f2d27d14c081da38.js:0
+[    9556ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://diamondbackcovers.com/cdn/wpm/s0a3c9e70wd8b01bb2p898e1257m7e92acc4m.js:0
+[   13806ms] [WARNING] [olark][warn] Google Analytics Integration is unable to detect Google Analytics on this page @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   14044ms] Sandbox access violation: Blocked a frame at "https://diamondbackcovers.com" from accessing a frame at "https://diamondbackcovers.com".  The frame being accessed is sandboxed and lacks the "allow-same-origin" flag.
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:150084)
+    at zl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:150283)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:152469)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:198264)
+    at tt (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:199156)
+    at n (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:201939)
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:202210)
+    at sentryWrapped (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:86754)
+    at a (https://diamondbackcovers.com/:5:535)
+[   14105ms] [WARNING] Warning: affirm.js may not work properly due to the follow issue: Third Party Cookies not available @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   14299ms] Blocked a frame with origin "https://diamondbackcovers.com" from accessing a frame with origin "https://static.olark.com". Protocols, domains, and ports must match.
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:150084)
+    at zl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:150283)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:152469)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at Wl (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:155645)
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:156435)
+[   14497ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cdn.shopify.com/s/files/1/1571/5355/t/127/assets/affirmShopify.js?v=1703258783&shop=diamondback-truck-covers.myshopify.com:0
+[   14757ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://www.paypal.com/tagmanager/pptm.js?id=002ad141-2087-11e8-bfb8-5956e592eb61&shop=diamondback-truck-covers.myshopify.com:0
+[   14945ms] [WARNING] Rebuy JS is already loaded. @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   14945ms] [ERROR] Refused to execute https://cdn.shopify.com/s/files/1/1571/5355/t/127/assets/affirmShopify.js?v=1703258783&shop=diamondback-truck-covers.myshopify.com as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type. @ :0
+[   15552ms] Blocked a frame with origin "https://diamondbackcovers.com" from accessing a frame with origin "https://match.adsrvr.org". Protocols, domains, and ports must match.
+    at unknown (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:156412)
+    at sentryWrapped (https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:2:86754)
+    at a (https://diamondbackcovers.com/:5:535)
+[   16737ms] [LOG] %c
+
+📈 Increased conversion rates
+📈 Increased average order value
+📈 Increased customer lifetime value
+
+
+Learn more at: https://developers.rebuyengine.com/
+
+ font-size: 14px; @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1

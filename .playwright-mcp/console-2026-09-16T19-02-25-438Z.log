@@ -1,0 +1,38 @@
+[    1749ms] [LOG] [MKTZ] Consent is disabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1751ms] [LOG] options.gaEnabled @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    1751ms] [LOG] true @ https://cdn.omniconvert.com/js/tb712b5.js:0
+[    4659ms] [LOG] [Loaded CSS, //a.klaviyo.com/media/css/public/klaviyo_subscribe.css] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    4661ms] [LOG] [Loaded JS, //cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.min.js] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5155ms] [LOG] [Klaviyo / Onsite] Initializing. @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    5155ms] [LOG] [Klaviyo / Onsite] Executing: init @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    5156ms] [LOG] [Klaviyo / Onsite] Executing: enable @ https://a.klaviyo.com/media/js/onsite/onsite.js:143
+[    5405ms] [LOG] [Waiting for DOM to process queue.] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5406ms] [LOG] [Processing queue.] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5406ms] [LOG] [Attaching to forms, #email_signup, 1] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5408ms] [LOG] [Attached to form, form#email_signup.klaviyo_bare_embed_MApYgr] @ https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js:39
+[    5760ms] [ERROR] Framing 'https://shop.app/' violates the following Content Security Policy directive: "frame-ancestors 'self' https://shop.app https://admin.shopify.com". The request has been blocked.
+ @ :0
+[    5756ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[    8116ms] [WARNING] Klaviyo tracking is disabled. To enable, set the cookie "__kla_off" to false. {is_robot: true, __kla_off: } @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    8312ms] [WARNING] Rebuy JS is already loaded. @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    8428ms] [WARNING] Hotjar not launching due to suspicious userAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36 @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    8675ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://www.paypal.com/tagmanager/pptm.js?id=002ad141-2087-11e8-bfb8-5956e592eb61&shop=diamondback-truck-covers.myshopify.com:0
+[    9319ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ https://wekre6r5lsxxzzbnlltsbyfm6i0dcqrs.lambda-url.eu-central-1.on.aws/:0
+[    9422ms] [LOG] %c
+
+📈 Increased conversion rates
+📈 Increased average order value
+📈 Increased customer lifetime value
+
+
+Learn more at: https://developers.rebuyengine.com/
+
+ font-size: 14px; @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    9429ms] [WARNING] Warning: affirm.js may not work properly due to the follow issue: Third Party Cookies not available @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[    9639ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ https://wekre6r5lsxxzzbnlltsbyfm6i0dcqrs.lambda-url.eu-central-1.on.aws/:0
+[   10418ms] [LOG] [Processing queue.] @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   10741ms] [WARNING] [olark][warn] Google Analytics Integration is unable to detect Google Analytics on this page @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1
+[   10810ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://diamondbackcovers.com/cdn/wpm/s0a3c9e70wd8b01bb2p898e1257m7e92acc4m.js:0
+[   11236ms] [INFO] k-web-pixel-version 2 @ https://diamondbackcovers.com/web-pixels/strict/app/web-pixel-1301282915@c63c5b72c8d77be5f2d27d14c081da38.js:0
+[   12383ms] [ERROR] 200 :  - Error: Unexpected token 'C', "Caught exc"... is not valid JSON
+    at Object.callAPI (https://cdn.rebuyengine.com/onsite/js/global-d04b448f226e41631bcd.js:1:362643) {request: Response, response: undefined} @ https://browser.sentry-cdn.com/10.75.0/bundle.tracing.replay.logs.metrics.min.js:1

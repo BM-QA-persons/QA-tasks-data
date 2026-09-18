@@ -1,0 +1,487 @@
+- generic [active] [ref=f23e1]:
+  - generic [ref=f23e2]: X
+  - link "Skip to content" [ref=f23e5] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic:  
+  - generic [ref=f23e6]:
+    - generic [ref=f23e10]:
+      - generic [ref=f23e11]:
+        - complementary [ref=f23e13]:
+          - generic [ref=f23e14]:
+            - text: Get a DiamondBack for as low as $82/mo with 0% APR.
+            - link "See financing options." [ref=f23e15] [cursor=pointer]:
+              - /url: /pages/financing
+        - list [ref=f23e17]:
+          - listitem [ref=f23e18]:
+            - button "USD" [ref=f23e19] [cursor=pointer]
+          - listitem [ref=f23e43]:
+            - text: /
+            - link "View your wishlist" [ref=f23e44] [cursor=pointer]:
+              - /url: /pages/wishlist
+              - generic [ref=f23e45]: 
+          - listitem [ref=f23e46]:
+            - text: /
+            - link "Help" [ref=f23e47] [cursor=pointer]:
+              - /url: https://help.diamondbackcovers.com
+          - listitem [ref=f23e48]:
+            - text: /
+            - link "Fleet Sales" [ref=f23e49] [cursor=pointer]:
+              - /url: /pages/fleet
+          - listitem [ref=f23e50]:
+            - link "800.935.4002" [ref=f23e51] [cursor=pointer]:
+              - /url: tel:8009354002
+      - generic [ref=f23e53]:
+        - link [ref=f23e56] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f23e61]:
+          - list [ref=f23e63]:
+            - listitem [ref=f23e64]:
+              - link "Covers expand" [ref=f23e65] [cursor=pointer]:
+                - /url: /collections/covers
+                - text: Covers
+                - generic [ref=f23e66]: expand
+              - generic [ref=f23e69]:
+                - complementary [ref=f23e70]:
+                  - list [ref=f23e71]:
+                    - listitem [ref=f23e72]:
+                      - link "Accessories" [ref=f23e73] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/accessories
+                    - listitem [ref=f23e74]:
+                      - link "Parts" [ref=f23e75] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/parts
+                    - listitem [ref=f23e76]:
+                      - link "Bundles" [ref=f23e77] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/bundles
+                    - listitem [ref=f23e78]:
+                      - link "Outlet" [ref=f23e79] [cursor=pointer]:
+                        - /url: https://diamondbackcovers.com/collections/diamondback-outlet
+                  - link "Compare" [ref=f23e80] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/pages/compare
+                - generic [ref=f23e81]:
+                  - article [ref=f23e82]:
+                    - link [ref=f23e83] [cursor=pointer]:
+                      - /url: /products/diamondbackhd
+                      - heading "HD" [level=3] [ref=f23e85]
+                      - img "HD Truck Bed Cover" [ref=f23e86]
+                      - paragraph [ref=f23e88]: The ultimate heavy-duty bed cover, able to haul up to 1,600 lbs on top.
+                    - text: Best Seller
+                  - article [ref=f23e89]:
+                    - link "SWITCHBACK New Switchback Truck Bed Cover Low profile, light build, and quick, toolless installation and removal." [ref=f23e90] [cursor=pointer]:
+                      - /url: /products/diamondback-switchback
+                      - generic [ref=f23e91]:
+                        - heading "SWITCHBACK" [level=3] [ref=f23e92]
+                        - generic [ref=f23e93]: New
+                      - img "Switchback Truck Bed Cover" [ref=f23e95]
+                      - paragraph [ref=f23e97]: Low profile, light build, and quick, toolless installation and removal.
+                  - article [ref=f23e98]:
+                    - link [ref=f23e99] [cursor=pointer]:
+                      - /url: /products/diamondbackse
+                      - heading "SE" [level=3] [ref=f23e101]
+                      - img "SE Truck Bed Cover" [ref=f23e102]
+                      - paragraph [ref=f23e104]: Our lighter version of the HD, able to haul 400 lbs on top.
+                  - article [ref=f23e105]:
+                    - link [ref=f23e106] [cursor=pointer]:
+                      - /url: /products/diamondback270
+                      - heading "270" [level=3] [ref=f23e108]
+                      - img "270 Truck Bed Cover" [ref=f23e109]
+                      - paragraph [ref=f23e111]: Unique three-hatch design with gull-wing access panels up front.
+                  - article [ref=f23e112]:
+                    - link [ref=f23e113] [cursor=pointer]:
+                      - /url: /products/diamondback180
+                      - heading "180" [level=3] [ref=f23e115]
+                      - img "180 Truck Bed Cover" [ref=f23e116]
+                      - paragraph [ref=f23e118]: Butterfly-style three-hatch design with two near full-length, side opening panels.
+            - listitem [ref=f23e119]:
+              - link "Accessories expand" [ref=f23e120] [cursor=pointer]:
+                - /url: /collections/accessories
+                - text: Accessories
+                - generic [ref=f23e121]: expand
+              - generic [ref=f23e125]:
+                - article [ref=f23e126]:
+                  - link [ref=f23e127] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/bed-organization
+                    - heading "BED ORGANIZATION" [level=3] [ref=f23e129]
+                    - img "Wingman" [ref=f23e130]
+                - article [ref=f23e131]:
+                  - link [ref=f23e132] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/rack-systems
+                    - heading "RACK SYSTEMS" [level=3] [ref=f23e134]
+                    - img "Rack System" [ref=f23e135]
+                - article [ref=f23e136]:
+                  - link [ref=f23e137] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/on-top-hauling
+                    - heading "ON-TOP HAULING" [level=3] [ref=f23e139]
+                    - img "StrongHold" [ref=f23e140]
+                - article [ref=f23e141]:
+                  - link [ref=f23e142] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/bundles
+                    - heading "BUNDLES" [level=3] [ref=f23e144]
+                    - img "All-day, Everyday Bundle" [ref=f23e145]
+                - article [ref=f23e146]:
+                  - link [ref=f23e147] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/rear-window-protection
+                    - heading "REAR WINDOW PROTECTION" [level=3] [ref=f23e149]
+                    - img "HD Cab Guard" [ref=f23e150]
+                - article [ref=f23e151]:
+                  - link [ref=f23e152] [cursor=pointer]:
+                    - /url: https://diamondbackcovers.com/collections/atv-sxs-accessories
+                    - heading "ATV/SxS" [level=3] [ref=f23e154]
+                    - img "Ramps" [ref=f23e155]
+            - listitem [ref=f23e156]:
+              - link "ATV/SXS expand" [ref=f23e157] [cursor=pointer]:
+                - /url: /collections/atv-sxs-carriers
+                - text: ATV/SXS
+                - generic [ref=f23e158]: expand
+              - generic [ref=f23e159]:
+                - list [ref=f23e160]:
+                  - listitem [ref=f23e161]:
+                    - link "Diamondback ATVS" [ref=f23e162] [cursor=pointer]:
+                      - /url: /products/diamondbackatvs
+                  - listitem [ref=f23e163]:
+                    - link "Diamondback ATVR" [ref=f23e164] [cursor=pointer]:
+                      - /url: /products/diamondbackatvr
+                  - listitem [ref=f23e165]:
+                    - link "Diamondback SXS" [ref=f23e166] [cursor=pointer]:
+                      - /url: /products/diamondbacksxs
+                - list [ref=f23e167]:
+                  - listitem [ref=f23e168]:
+                    - link "Accessories" [ref=f23e169] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-accessories
+                  - listitem [ref=f23e170]:
+                    - link "Compare" [ref=f23e171] [cursor=pointer]:
+                      - /url: /pages/compare-diamondback-atv-sxs
+                  - listitem [ref=f23e172]:
+                    - link "ATV Fit Guide" [ref=f23e173] [cursor=pointer]:
+                      - /url: /pages/atv-fit-guide
+                  - listitem [ref=f23e174]:
+                    - link "Parts" [ref=f23e175] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-parts
+                - generic [ref=f23e176]:
+                  - link [ref=f23e177] [cursor=pointer]:
+                    - /url: /collections/atv-sxs-carriers
+                    - img "Shop ATV/SXS Carriers" [ref=f23e178]
+                  - paragraph [ref=f23e179]:
+                    - link "Shop ATV/SXS Carriers" [ref=f23e180] [cursor=pointer]:
+                      - /url: /collections/atv-sxs-carriers
+            - listitem [ref=f23e181]:
+              - link "Gear expand" [ref=f23e182] [cursor=pointer]:
+                - /url: /collections/gear
+                - text: Gear
+                - generic [ref=f23e183]: expand
+              - generic [ref=f23e184]:
+                - list [ref=f23e185]:
+                  - listitem [ref=f23e186]:
+                    - link "Hoodies" [ref=f23e187] [cursor=pointer]:
+                      - /url: /products/diamondback-basic-hoodie
+                  - listitem [ref=f23e188]:
+                    - link "T-Shirts" [ref=f23e189] [cursor=pointer]:
+                      - /url: /collections/gear/T-Shirt
+                  - listitem [ref=f23e190]:
+                    - link "Hats" [ref=f23e191] [cursor=pointer]:
+                      - /url: /collections/gear/Hat
+                - generic [ref=f23e192]:
+                  - link [ref=f23e193] [cursor=pointer]:
+                    - /url: /collections/gear
+                    - img "Shop Gear" [ref=f23e194]
+                  - paragraph [ref=f23e195]:
+                    - link "Shop Gear" [ref=f23e196] [cursor=pointer]:
+                      - /url: /collections/gear
+            - listitem [ref=f23e197]:
+              - link "Built Different expand" [ref=f23e198] [cursor=pointer]:
+                - /url: "#"
+                - text: Built Different
+                - generic [ref=f23e199]: expand
+              - generic [ref=f23e200]:
+                - list [ref=f23e201]:
+                  - listitem [ref=f23e202]:
+                    - link "About Us" [ref=f23e203] [cursor=pointer]:
+                      - /url: /blogs/about-us
+                  - listitem [ref=f23e204]:
+                    - link "Our Customers" [ref=f23e205] [cursor=pointer]:
+                      - /url: /blogs/our-customers
+                  - listitem [ref=f23e206]:
+                    - link "Ambassadors" [ref=f23e207] [cursor=pointer]:
+                      - /url: /blogs/ambassadors
+                - list [ref=f23e208]:
+                  - listitem [ref=f23e209]:
+                    - link "#BuiltDifferent" [ref=f23e210] [cursor=pointer]:
+                      - /url: /pages/built-different-social
+                  - listitem [ref=f23e211]:
+                    - link "Field Journal" [ref=f23e212] [cursor=pointer]:
+                      - /url: /blogs/field-journal
+                - generic [ref=f23e213]:
+                  - link [ref=f23e214] [cursor=pointer]:
+                    - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+                    - img "Building The Best Locking Truck Bed Cover" [ref=f23e215]
+                  - paragraph [ref=f23e216]:
+                    - link "Building The Best Locking Truck Bed Cover" [ref=f23e217] [cursor=pointer]:
+                      - /url: /blogs/field-journal/building-the-best-locking-truck-bed-cover
+        - navigation [ref=f23e219]:
+          - list [ref=f23e220]:
+            - listitem [ref=f23e221]:
+              - link "Cart 0" [ref=f23e222] [cursor=pointer]:
+                - /url: /cart
+                - text: Cart
+                - generic [ref=f23e223]: "0"
+    - generic [ref=f23e224]:
+      - main [ref=f23e225]:
+        - generic [ref=f23e227]:
+          - img "Buy Now. Pay later. 0 Percent Financing" [ref=f23e228]
+          - paragraph [ref=f23e229]: Get the DiamondBack you’ve been wanting on your terms. No money down, no interest, 0% APR financing, no time to waste.
+          - generic [ref=f23e230] [cursor=pointer]: Prequalify Now
+          - paragraph
+        - generic [ref=f23e235]:
+          - generic [ref=f23e236]:
+            - img "Heather Gray" [ref=f23e238]
+            - generic [ref=f23e239]:
+              - button "Previous slide" [disabled] [ref=f23e240] [cursor=pointer]
+              - list [ref=f23e244]:
+                - listbox [ref=f23e246]:
+                  - option [ref=f23e247]:
+                    - link [ref=f23e248] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/green-hoodie-full-size-transparent_1000x.png?v=1745960510
+                      - img "OD Green" [ref=f23e249]
+                  - option [ref=f23e250]:
+                    - link [ref=f23e251] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/DSC02608_L_2048x1536_bb922614-50c1-4406-babb-7f0ba4e3a581_1000x.jpg?v=1745960507
+                      - img "Heather Gray" [ref=f23e252]
+                  - option [ref=f23e253]:
+                    - link [ref=f23e254] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/DSC02607_L_2048x1536_115ef773-ef8f-4a93-b5a8-cb1c4f151157_1000x.jpg?v=1745960510
+                      - img "Black" [ref=f23e255]
+                  - option [ref=f23e256]:
+                    - link [ref=f23e257] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/DSC02612_L_2048x1536_4e820160-0224-451f-8ef6-8251c3e171b7_1000x.jpg?v=1745960503
+                      - img "Forest Camo" [ref=f23e258]
+                  - option [ref=f23e259]:
+                    - link [ref=f23e260] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/duck-camo-hoodie-full-size-transparent_1000x.png?v=1745960503
+                      - img "Duck Camo" [ref=f23e261]
+                  - option [aria-hidden] [ref=f23e262]:
+                    - link [ref=f23e263] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/navy-hoodie-full-size-transparent_1000x.png?v=1720026452
+                  - option [aria-hidden] [ref=f23e265]:
+                    - link [ref=f23e266] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/black-camo-hoodie-full-size-transparent_1000x_e9be559b-c69d-4558-8891-dab7723ab5c1_1000x.png?v=1720026452
+                  - option [aria-hidden] [ref=f23e268]:
+                    - link [ref=f23e269] [cursor=pointer]:
+                      - /url: //diamondbackcovers.com/cdn/shop/products/sandstone-hoodie-full-size-transparent_1000x_ce655699-f5c9-4842-a4aa-645ee9e8e6f9_1000x.png?v=1720026452
+              - button "Next slide" [ref=f23e271] [cursor=pointer]
+            - generic [ref=f23e275]:
+              - list [ref=f23e276]:
+                - listitem [ref=f23e277]:
+                  - img "OD Green" [ref=f23e278]
+                - listitem [ref=f23e279]:
+                  - img "Heather Gray" [ref=f23e280]
+                - listitem [ref=f23e281]:
+                  - img "Black" [ref=f23e282]
+                - listitem [ref=f23e283]:
+                  - img "Forest Camo" [ref=f23e284]
+                - listitem [ref=f23e285]:
+                  - img "Duck Camo" [ref=f23e286]
+                - listitem [ref=f23e287]:
+                  - img "Navy" [ref=f23e288]
+                - listitem [ref=f23e289]:
+                  - img "Black Camo" [ref=f23e290]
+                - listitem [ref=f23e291]:
+                  - img "Sandstone" [ref=f23e292]
+              - generic [ref=f23e293] [cursor=pointer]: X
+          - generic [ref=f23e296]:
+            - generic [ref=f23e297]: BEST SELLER
+            - heading "DiamondBack Basic Hoodie" [level=1] [ref=f23e298]
+            - generic [ref=f23e301]:
+              - generic [ref=f23e302]:
+                - paragraph [ref=f23e304]: $50
+                - paragraph [ref=f23e306]: "Ready to ship: 3-5 Days"
+              - paragraph [ref=f23e307]
+              - generic [ref=f23e308]:
+                - generic [ref=f23e309]:
+                  - generic [ref=f23e310] [cursor=pointer]: "Color: Heather Gray"
+                  - generic [ref=f23e312]:
+                    - img [ref=f23e313] [cursor=pointer]
+                    - img [ref=f23e314] [cursor=pointer]
+                    - img [ref=f23e315] [cursor=pointer]
+                    - img [ref=f23e316] [cursor=pointer]
+                    - img [ref=f23e317] [cursor=pointer]
+                    - img [ref=f23e318] [cursor=pointer]
+                    - img [ref=f23e319] [cursor=pointer]
+                    - img [ref=f23e320] [cursor=pointer]
+                - generic [ref=f23e321]:
+                  - generic [ref=f23e322] [cursor=pointer]: "Size: Small"
+                  - generic [ref=f23e324]:
+                    - generic [ref=f23e325] [cursor=pointer]: S
+                    - generic [ref=f23e326] [cursor=pointer]: M
+                    - generic [ref=f23e327] [cursor=pointer]: L
+                    - generic [ref=f23e328] [cursor=pointer]: XL
+                    - generic [ref=f23e329] [cursor=pointer]: XXL
+                    - generic [ref=f23e330] [cursor=pointer]: 3XL
+                - generic [ref=f23e331]: Only 3 left
+                - generic [ref=f23e333]:
+                  - button "Add to Cart" [ref=f23e334] [cursor=pointer]
+                  - generic [ref=f23e335]: has been added to your wish list.
+                  - generic [ref=f23e336]: Item has been removed from your wish list.
+            - generic [ref=f23e337]:
+              - paragraph [ref=f23e338]: Tough enough to handle the early mornings and soft enough to handle the late nights around the fire, the DiamondBack Basic Hoodie offers soft, superior comfort without limiting your range of motion.
+              - list [ref=f23e339]:
+                - listitem [ref=f23e340]: Premium, heavyweight cotton-poly fabric
+                - listitem [ref=f23e341]: Tag free
+                - listitem [ref=f23e342]: 10 oz.
+                - listitem [ref=f23e343]: Generous fit
+      - contentinfo [ref=f23e345]:
+        - generic [ref=f23e347]:
+          - generic [ref=f23e348]:
+            - generic [ref=f23e350]:
+              - generic [ref=f23e351]: Get Connected
+              - generic [ref=f23e352]: DiamondBack updates & specials.
+              - generic [ref=f23e354]:
+                - generic [ref=f23e355]:
+                  - generic [ref=f23e356] [cursor=pointer]: Newsletter Sign Up
+                  - textbox "Newsletter Sign Up" [ref=f23e357]:
+                    - /placeholder: Enter email address
+                - button "Submit email subscription" [ref=f23e358] [cursor=pointer]
+              - generic [ref=f23e359]: (Private, secure, spam-free.)
+            - list [ref=f23e364]:
+              - listitem [ref=f23e365]: Shop
+              - listitem [ref=f23e366]:
+                - link "Truck Covers" [ref=f23e367] [cursor=pointer]:
+                  - /url: /collections/covers
+              - listitem [ref=f23e368]:
+                - link "ATV/SXS" [ref=f23e369] [cursor=pointer]:
+                  - /url: /collections/atv-sxs-carriers
+              - listitem [ref=f23e370]:
+                - link "Accessories" [ref=f23e371] [cursor=pointer]:
+                  - /url: /collections/accessories
+              - listitem [ref=f23e372]:
+                - link "Gear" [ref=f23e373] [cursor=pointer]:
+                  - /url: /collections/gear
+              - listitem [ref=f23e374]:
+                - link "Outlet Store" [ref=f23e375] [cursor=pointer]:
+                  - /url: /collections/diamondback-outlet
+              - listitem [ref=f23e376]:
+                - link "Parts" [ref=f23e377] [cursor=pointer]:
+                  - /url: /collections/parts
+              - listitem [ref=f23e378]:
+                - link "Gift Cards" [ref=f23e379] [cursor=pointer]:
+                  - /url: /products/gift-card
+              - listitem [ref=f23e380]:
+                - link "Military Discount" [ref=f23e381] [cursor=pointer]:
+                  - /url: /pages/military-discount
+              - listitem [ref=f23e382]:
+                - link "Financing" [ref=f23e383] [cursor=pointer]:
+                  - /url: /pages/financing
+              - listitem [ref=f23e384]
+              - listitem [ref=f23e385]:
+                - link "Account" [ref=f23e386] [cursor=pointer]:
+                  - /url: /account/login
+            - list [ref=f23e388]:
+              - listitem [ref=f23e389]: Product Info
+              - listitem [ref=f23e390]:
+                - link "Warranty" [ref=f23e391] [cursor=pointer]:
+                  - /url: /pages/warranty
+              - listitem [ref=f23e392]:
+                - link "Compare" [ref=f23e393] [cursor=pointer]:
+                  - /url: /pages/compare-covers
+              - listitem [ref=f23e394]:
+                - link "How We Do It" [ref=f23e395] [cursor=pointer]:
+                  - /url: /pages/how-we-do-it
+              - listitem [ref=f23e396]:
+                - link "#BuiltDifferent" [ref=f23e397] [cursor=pointer]:
+                  - /url: /pages/diamondback-ready
+              - listitem [ref=f23e398]:
+                - link "ATV Fit Guide" [ref=f23e399] [cursor=pointer]:
+                  - /url: /pages/atv-fit-guide
+              - listitem [ref=f23e400]:
+                - link "Compare ATV/SXS" [ref=f23e401] [cursor=pointer]:
+                  - /url: /pages/compare-diamondback-atv-sxs
+              - listitem [ref=f23e402]:
+                - link "International Quote" [ref=f23e403] [cursor=pointer]:
+                  - /url: /pages/international-quote
+              - listitem [ref=f23e404]:
+                - link "Fleet Sales" [ref=f23e405] [cursor=pointer]:
+                  - /url: /pages/fleet
+            - list [ref=f23e407]:
+              - listitem [ref=f23e408]: Get Help
+              - listitem [ref=f23e409]:
+                - link "Help Center" [ref=f23e410] [cursor=pointer]:
+                  - /url: https://help.diamondbackcovers.com/s/
+              - listitem [ref=f23e411]:
+                - link "Contact Us" [ref=f23e412] [cursor=pointer]:
+                  - /url: /pages/contact-us
+              - listitem [ref=f23e413]:
+                - link "Installation Guides" [ref=f23e414] [cursor=pointer]:
+                  - /url: /pages/installation-guides
+              - listitem [ref=f23e415]:
+                - link "Owner's Manual" [ref=f23e416] [cursor=pointer]:
+                  - /url: /pages/owners-manual
+              - listitem [ref=f23e417]:
+                - link "Register Your DiamondBack" [ref=f23e418] [cursor=pointer]:
+                  - /url: /pages/register-your-diamondback
+              - listitem [ref=f23e419]:
+                - link "Shipping & Returns" [ref=f23e420] [cursor=pointer]:
+                  - /url: /pages/shipping-returns
+            - list [ref=f23e422]:
+              - listitem [ref=f23e423]: Explore
+              - listitem [ref=f23e424]:
+                - link "Built in the USA" [ref=f23e425] [cursor=pointer]:
+                  - /url: /blogs/about-us
+              - listitem [ref=f23e426]:
+                - link "Field Journal" [ref=f23e427] [cursor=pointer]:
+                  - /url: /blogs/field-journal
+              - listitem [ref=f23e428]:
+                - link "Careers" [ref=f23e429] [cursor=pointer]:
+                  - /url: /pages/careers-with-diamondback
+              - listitem [ref=f23e430]:
+                - link "Our Customers" [ref=f23e431] [cursor=pointer]:
+                  - /url: /blogs/our-customers
+              - listitem [ref=f23e432]:
+                - link "Our Ambassadors" [ref=f23e433] [cursor=pointer]:
+                  - /url: /blogs/ambassadors
+              - listitem [ref=f23e434]
+              - listitem [ref=f23e435]:
+                - link "Youth Impact Awards" [ref=f23e436] [cursor=pointer]:
+                  - /url: /pages/youth-impact-awards
+              - listitem [ref=f23e437]:
+                - link "Fundraising" [ref=f23e438] [cursor=pointer]:
+                  - /url: /pages/fundraising
+          - generic [ref=f23e440]:
+            - list [ref=f23e441]:
+              - listitem [ref=f23e442]:
+                - img "icon-built-in-usa" [ref=f23e443]
+              - listitem [ref=f23e445]:
+                - img "icon-lifetime-warranty" [ref=f23e446]
+              - listitem [ref=f23e448]:
+                - link "DiamondBack on Facebook" [ref=f23e449] [cursor=pointer]:
+                  - /url: https://www.facebook.com/diamondbackcovers
+              - listitem [ref=f23e452]:
+                - link "DiamondBack on Twitter" [ref=f23e453] [cursor=pointer]:
+                  - /url: https://twitter.com/dbackcovers
+              - listitem [ref=f23e458]:
+                - link "DiamondBack on Youtube" [ref=f23e459] [cursor=pointer]:
+                  - /url: https://www.youtube.com/user/diamondbackcover
+              - listitem [ref=f23e462]:
+                - link "DiamondBack on Instagram" [ref=f23e463] [cursor=pointer]:
+                  - /url: https://www.instagram.com/diamondbackcovers/
+            - list [ref=f23e468]:
+              - listitem [ref=f23e469]:
+                - link "Privacy Policy" [ref=f23e470] [cursor=pointer]:
+                  - /url: /policies/privacy-policy
+              - listitem [ref=f23e471]:
+                - link "Terms of Service" [ref=f23e472] [cursor=pointer]:
+                  - /url: /policies/terms-of-service
+              - listitem [ref=f23e473]:
+                - link "Do Not Sell My Info" [ref=f23e474] [cursor=pointer]:
+                  - /url: /pages/california-consumer-privacy-act-request-form
+              - listitem [ref=f23e475]:
+                - link "Site Map" [ref=f23e476] [cursor=pointer]:
+                  - /url: /pages/site-map
+  - generic [ref=f23e480]:
+    - heading "Let Us Install It!" [level=2] [ref=f23e481]
+    - generic [ref=f23e482]:
+      - paragraph [ref=f23e483]: No one enjoys drilling into their DiamondBack. With Base Track Installation, DiamondBack installs the tracks of your chosen rack system at the factory. You'll save yourself time and possible headaches knowing your tracks are installed correctly. Enjoy the outdoors instead of spending time installing the tracks on your DiamondBack.
+      - paragraph [ref=f23e484]:
+        - text: "*"
+        - strong [ref=f23e485]: Tracks are not installed on the center panel of your DiamondBack.
+      - paragraph [ref=f23e486]
+    - strong [ref=f23e487]: $99.00
+    - button "Add to Cart" [ref=f23e488] [cursor=pointer]
+    - generic [ref=f23e489] [cursor=pointer]: No thanks
