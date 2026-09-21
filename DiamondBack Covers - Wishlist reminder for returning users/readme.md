@@ -68,6 +68,10 @@ Checked Windows-based browsers in Windows
 Check that new CSS added is not affecting original site design
 Check that light/dark mode works with newly added content
 Checked that new JavaScript added is not affecting original site functionality
+<<<<<<< HEAD
+Hi this is it 
+new message 
+=======
 
 
 Hi this is new line
@@ -75,3 +79,4 @@ Hi this is new line
 
 
 this is ew t 
+>>>>>>> e5b703f6104049d34eab143e2bf3d3a33b501ce1
