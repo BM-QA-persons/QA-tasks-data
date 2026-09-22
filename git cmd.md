@@ -19,9 +19,10 @@ PWD **To know which file are you present**
 
 
 
+git switch **To switch the local branch** / git checkout  **To switch the local branch**
 
 
-cdgit remote add origin "origin_url.git"**To connect the with origin - only when you are not connected with any origin**
+git remote add origin "origin_url.git" **To connect the with origin - only when you are not connected with any origin**
 
 git remote remove origin **To disconnect the current remote origin**
 
@@ -29,14 +30,17 @@ git push -u origin [your-current-branch-name] **To connect main branch with gith
 
 git remote set-url origin "origin_url.git" **to connect with the origin - if you already connected with some origin**
 
-git pull origin main --allow-unrelated-histories **To allow pulling unrelated data in our branch**
+git pull origin [name-of-origin-you-want-to-take-pull] --allow-unrelated-histories **To allow pulling unrelated data in our branch**
 
+git push origin [name-of-origin]:[name-of-origin-where-you-want-to-push] **To push the data from your current branch to another**
+
+git pull origin [name-of-pull]:[name-of-origin-where-you-want-to-pull] **To pull the data from your current branch to another**
 
 git reset --hard origin **To get the data form the origin to file mostly use to get deleted files to the local folder**
 
 git remote -v **to check which repo i am connected**
 
-git config --global user.email "surajs@brillmark.com" **for  change account to Git commits** 
+git config --global user.email "surajs@brillmark.com" **for change account to Git commits** 
 
 
 
