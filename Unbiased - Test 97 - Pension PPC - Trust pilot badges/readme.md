@@ -1,18 +1,19 @@
 
 FIGMA https://www.figma.com/design/1eUJEEEMw2oaBe2VSziQUc/Untitled?node-id=0-1&t=riw6Pi5syoKKJAZj-1 
 
-Task name DiamondBack Covers – Wishlist reminder for returning users 
+Task name Unbiased - Test 97 - Pension PPC - Trust pilot badges
 
 
-test description Returning visitors who have items saved in their wish list see a "Welcome Back" modal on site entry showing their saved items (thumbnail, name, price, date saved, "Add to cart"), so they can act on something they already chose instead of losing it. Hypothesis: this lifts conversion because saved items are hard to find again.
+test description Based on previous testing, including automatically updated widgets will increase consistency between the page and trust pilot, leading to higher trust of the page.
 
 Test Preview link: 
- Control v0 https://diamondbackcovers.com/
- Variation v1 https://diamondbackcovers.com/#?mktz_sp=cd2d4f7a6532ad80e6151b8b8ab0c414&mktz_p=1713761-1778425 
+V0: Control https://www.unbiased.co.uk/pages/pensions?cro_mode=qa&_conv_eforce=100052861.1000257431 
+V1: Variation https://www.unbiased.co.uk/pages/pensions?cro_mode=qa&_conv_eforce=100052861.1000257432
 
-URL targeting: begins with diamondbackcovers.com/ (covers both US and the /en-ca/ pages);
+URL targeting:
+/pages/pensions
 
-Audience targeting: Returning users only, all devices — not "all users, desktop, mobile" as your draft has it. This is a returning-visitors-only test
+Audience targeting: All users, desktop, mobile.
  
 
 confirm the checklist check poin as well
@@ -68,15 +69,5 @@ Checked Windows-based browsers in Windows
 Check that new CSS added is not affecting original site design
 Check that light/dark mode works with newly added content
 Checked that new JavaScript added is not affecting original site functionality
-<<<<<<< HEAD
-Hi this is it 
-new message 
-=======
+Code reivew 
 
-
-Hi this is new line
-
-
-
-this is ew t 
->>>>>>> e5b703f6104049d34eab143e2bf3d3a33b501ce1

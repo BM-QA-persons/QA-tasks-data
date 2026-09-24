@@ -1,0 +1,47 @@
+#ab-tp-hero .trustpilot-widget {
+    position: relative;
+    transform: scale(1.06);
+}
+
+.hero-section .hide-from-tablet {
+    display: none !important;
+}
+
+/* Desktop/tablet gets the Micro Combo widget, mobile gets Micro Star (its
+   shorter text avoids overflow on narrow viewports). Both are injected
+   unconditionally by variation.js; this toggles which one is visible so the
+   switch doesn't depend on a JS viewport check. */
+#ab-tp-hero .ab-tp-star {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    #ab-tp-hero .ab-tp-combo {
+        display: none;
+    }
+
+    #ab-tp-hero .ab-tp-star {
+        display: block;
+    }
+}
+
+#ab-tp-image {
+    position: absolute;
+    left: 0;
+    background: transparent;
+    width: max-content !important;
+}
+
+#ab-tp-image .trustpilot-widget {
+    margin-top: -5px;
+    transform: scale(0.8);
+}
+
+@media screen and (max-width: 500px) {
+    #ab-tp-image .trustpilot-widget {
+        transform: scale(0.6);
+        margin-left: -30px;
+        margin-top: -20px;
+    }
+
+}
